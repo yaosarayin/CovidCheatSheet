@@ -1,0 +1,20 @@
+<svg id="menu-button" xmlns="http://www.w3.org/2000/svg" width="80" height="72.085" viewBox="0 0 80 72.085">
+  <g id="button-oval" fill="rgba(134,145,158,0.6)" stroke="rgba(248,248,248,0)" stroke-width="1">
+    <rect width="80" height="72.085" rx="36.042" stroke="none"/>
+    <rect x="0.5" y="0.5" width="79" height="71.085" rx="35.542" fill="none"/>
+  </g>
+  <g id="button-lines" transform="translate(18.657 20.07)">
+    <g id="line" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="42.403" height="6.784" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41.403" height="5.784" fill="none"/>
+    </g>
+    <g id="line-2" data-name="line" transform="translate(0 12.721)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="42.403" height="6.784" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41.403" height="5.784" fill="none"/>
+    </g>
+    <g id="line-3" data-name="line" transform="translate(0 25.442)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1">
+      <rect width="42.403" height="6.784" stroke="none"/>
+      <rect x="0.5" y="0.5" width="41.403" height="5.784" fill="none"/>
+    </g>
+  </g>
+</svg>

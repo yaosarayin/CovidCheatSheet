@@ -1,8 +1,6 @@
 .mediaViewInfo {
 	--web-view-name: Wash Hands;
 	--web-view-id: Wash_Hands;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -14,7 +12,6 @@
 	padding: 0;
 	box-sizing: border-box;
 	border: none;
-	scroll-behavior: smooth;
 }
 #Wash_Hands {
 	position: absolute;
@@ -24,8 +21,6 @@
 	overflow: hidden;
 	--web-view-name: Wash Hands;
 	--web-view-id: Wash_Hands;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
@@ -38,6 +33,65 @@
 		opacity: 1;
 	}
 
+}
+.___50 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 487px;
+	left: 0px;
+	top: 2953px;
+}
+.___49 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 844px;
+	left: 0px;
+	top: 2109px;
+}
+.___46 {
+	position: absolute;
+	overflow: visible;
+	width: 1280px;
+	height: 1686px;
+	left: 0px;
+	top: 442px;
+}
+.___47 {
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 113px;
+	left: 38px;
+	top: 372px;
+}
+.___1010 {
+	overflow: visible;
+	position: absolute;
+	width: 1207px;
+	height: 805px;
+	left: 0px;
+	top: 1323px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.___780 {
+	overflow: visible;
+	position: absolute;
+	width: 1185px;
+	height: 354px;
+	left: 95px;
+	top: 939px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.___1009 {
+	overflow: visible;
+	position: absolute;
+	width: 1221px;
+	height: 371px;
+	left: 0px;
+	top: 534px;
+	transform: matrix(1,0,0,1,0,0);
 }
 #Washing_Your_Hands {
 	position: absolute;
@@ -53,204 +107,10 @@
 	font-size: 80px;
 	color: rgba(112,112,112,1);
 }
-#quiz_button {
-	position: absolute;
-	width: 508px;
-	height: 80px;
-	left: 386px;
-	top: 3480px;
-	overflow: visible;
-}
-.___1582 {
-	filter: drop-shadow(5px 3px 5px rgba(0, 0, 0, 0.302));
-	overflow: visible;
-	position: absolute;
-	width: 523px;
-	height: 100px;
-	left: 0px;
-	top: 0px;
-	transform: matrix(1,0,0,1,0,0);
-}
-#Take_the_Quiz {
-	position: relative;
-	top: 33px;
-	white-space: nowrap;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(112,112,112,1);
-}
-#how_button {
-	position: absolute;
-	width: 287px;
-	height: 125.426px;
-	left: 498px;
-	top: 201px;
-	overflow: visible;
-}
-.___25 {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 10px;
-	top: 12px;
-}
-.___25_q {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 0px;
-	top: 0px;
-}
-#HOW_to_do_it_correctly {
-	position: absolute;
-	left: 25.5px;
-	top: 18.426px;
-	overflow: visible;
-	width: 235px;
-	height: 107px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(112,112,112,1);
-}
-#why_button {
-	position: absolute;
-	width: 285px;
-	height: 115px;
-	left: 904px;
-	top: 201px;
-	overflow: visible;
-}
-.___25_t {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 8px;
-	top: 12px;
-}
-.___25_u {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 0px;
-	top: 0px;
-}
-#WHY_is_it_so_important_ {
-	position: absolute;
-	left: 26.5px;
-	top: 12.426px;
-	overflow: visible;
-	width: 236px;
-	height: 91px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(112,112,112,1);
-}
-#when_button {
-	position: absolute;
-	width: 285px;
-	height: 131.426px;
-	left: 92px;
-	top: 201px;
-	overflow: visible;
-}
-.___25_x {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 8px;
-	top: 12px;
-}
-.___25_y {
-	position: absolute;
-	overflow: visible;
-	width: 277px;
-	height: 103px;
-	left: 0px;
-	top: 0px;
-}
-#WHEN_should_I_wash_my_hands {
-	position: absolute;
-	left: 15.5px;
-	top: 12.426px;
-	overflow: visible;
-	width: 250px;
-	height: 119px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
-	color: rgba(112,112,112,1);
-}
-#when_block {
-	position: absolute;
-	width: 1280px;
-	height: 1814.226px;
-	left: 0px;
-	top: 313.774px;
-	overflow: visible;
-}
-.___46 {
-	position: absolute;
-	overflow: visible;
-	width: 1280px;
-	height: 1686px;
-	left: 0px;
-	top: 128.226px;
-}
-.___47 {
-	position: absolute;
-	overflow: visible;
-	width: 278px;
-	height: 113px;
-	left: 38px;
-	top: 58.226px;
-}
-.___1010 {
-	overflow: visible;
-	position: absolute;
-	width: 1207px;
-	height: 805px;
-	left: 0px;
-	top: 1009.226px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.___780 {
-	overflow: visible;
-	position: absolute;
-	width: 1185px;
-	height: 354px;
-	left: 95px;
-	top: 625.226px;
-	transform: matrix(1,0,0,1,0,0);
-}
-.___1009 {
-	overflow: visible;
-	position: absolute;
-	width: 1221px;
-	height: 371px;
-	left: 0px;
-	top: 220.226px;
-	transform: matrix(1,0,0,1,0,0);
-}
 #WHEN_ {
 	position: absolute;
 	left: 71px;
-	top: 86.226px;
+	top: 400px;
 	overflow: visible;
 	width: 272px;
 	height: 85px;
@@ -264,7 +124,7 @@
 #You_are_dealing_with_food_ {
 	position: absolute;
 	left: 95px;
-	top: 246.226px;
+	top: 560px;
 	overflow: hidden;
 	width: 710px;
 	height: 44px;
@@ -278,7 +138,7 @@
 #Before__during__and_after_prep {
 	position: absolute;
 	left: 352.5px;
-	top: 337.726px;
+	top: 651.5px;
 	overflow: visible;
 	width: 586px;
 	height: 113px;
@@ -292,7 +152,7 @@
 #You_were_near_someone_that_is_ {
 	position: absolute;
 	left: 258px;
-	top: 661.226px;
+	top: 975px;
 	overflow: hidden;
 	width: 907px;
 	height: 44px;
@@ -306,7 +166,7 @@
 #You_just_ {
 	position: absolute;
 	left: 35px;
-	top: 1042.226px;
+	top: 1356px;
 	overflow: hidden;
 	width: 823px;
 	height: 44px;
@@ -320,7 +180,7 @@
 #Before_and_after_caring_for_so {
 	position: absolute;
 	left: 382.5px;
-	top: 750.726px;
+	top: 1064.5px;
 	overflow: hidden;
 	width: 738px;
 	height: 99px;
@@ -334,7 +194,7 @@
 #Went_to_the_public {
 	position: absolute;
 	left: 388.5px;
-	top: 1584.726px;
+	top: 1898.5px;
 	overflow: visible;
 	width: 369px;
 	height: 44px;
@@ -350,7 +210,7 @@
 	width: 149.5px;
 	height: 174.887px;
 	left: 763px;
-	top: 0px;
+	top: 313.774px;
 	overflow: visible;
 }
 .___242 {
@@ -427,7 +287,7 @@
 #Before_eating_food {
 	position: absolute;
 	left: 353.5px;
-	top: 451.726px;
+	top: 765.5px;
 	overflow: visible;
 	width: 223px;
 	height: 91px;
@@ -443,7 +303,7 @@
 	width: 239.221px;
 	height: 254.531px;
 	left: 922.242px;
-	top: 257.226px;
+	top: 571px;
 	overflow: visible;
 }
 #__25 {
@@ -683,7 +543,7 @@
 	width: 171.351px;
 	height: 158.5px;
 	left: 100px;
-	top: 346.226px;
+	top: 660px;
 	overflow: visible;
 }
 #__31 {
@@ -1000,7 +860,7 @@
 #Before_and_after_treating_a_cu {
 	position: absolute;
 	left: 382.5px;
-	top: 895.726px;
+	top: 1209.5px;
 	overflow: hidden;
 	width: 840px;
 	height: 61px;
@@ -1016,7 +876,7 @@
 	width: 160.5px;
 	height: 160.5px;
 	left: 950px;
-	top: 1391.726px;
+	top: 1705.5px;
 	overflow: visible;
 }
 .___387 {
@@ -1419,7 +1279,7 @@
 	width: 128.74px;
 	height: 167.662px;
 	left: 48px;
-	top: 1113.565px;
+	top: 1427.338px;
 	overflow: visible;
 }
 .___430 {
@@ -1508,7 +1368,7 @@
 	width: 135.481px;
 	height: 137.864px;
 	left: 200px;
-	top: 731.556px;
+	top: 1045.33px;
 	overflow: visible;
 }
 .___439 {
@@ -1648,7 +1508,7 @@
 	width: 152.868px;
 	height: 152.781px;
 	left: 1089px;
-	top: 772.447px;
+	top: 1086.22px;
 	overflow: visible;
 }
 #__53 {
@@ -1841,7 +1701,7 @@
 #Used_the_toilet {
 	position: absolute;
 	left: 388.5px;
-	top: 1083.726px;
+	top: 1397.5px;
 	overflow: hidden;
 	width: 351px;
 	height: 41px;
@@ -1855,7 +1715,7 @@
 #Blew_your_nose__coughed_or_sne {
 	position: absolute;
 	left: 388.5px;
-	top: 1322.726px;
+	top: 1636.5px;
 	overflow: hidden;
 	width: 550px;
 	height: 115px;
@@ -1869,7 +1729,7 @@
 #Touched_your_pet__pet_food__or {
 	position: absolute;
 	left: 391.5px;
-	top: 1456.726px;
+	top: 1770.5px;
 	overflow: hidden;
 	width: 550px;
 	height: 109px;
@@ -1883,7 +1743,7 @@
 #Touched_garbage_or_garbage_bag {
 	position: absolute;
 	left: 388.5px;
-	top: 1179.726px;
+	top: 1493.5px;
 	overflow: visible;
 	width: 301px;
 	height: 135px;
@@ -1899,7 +1759,7 @@
 	width: 152px;
 	height: 151px;
 	left: 170px;
-	top: 1281.226px;
+	top: 1595px;
 	overflow: visible;
 }
 .___95 {
@@ -2150,19 +2010,59 @@
 	top: 113.294px;
 	transform: matrix(1,0,0,1,0,0);
 }
+#Follow_this_video_to_wash_your {
+	position: absolute;
+	left: 87px;
+	top: 2213px;
+	overflow: visible;
+	width: 1108px;
+	height: 85px;
+	text-align: left;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(112,112,112,1);
+}
+.___33 {
+	position: absolute;
+	overflow: visible;
+	width: 881px;
+	height: 472px;
+	left: 180px;
+	top: 2388px;
+}
+.___98 {
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	height: 131px;
+	left: 555px;
+	top: 2559px;
+}
+.____1 {
+	overflow: hidden;
+	position: absolute;
+	width: 77px;
+	height: 67px;
+	transform: matrix(1,0,0,1,575.8757,2582.3925) rotate(-30deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
 .___495 {
 	overflow: visible;
 	position: absolute;
 	width: 506.897px;
 	height: 78px;
 	left: 435.103px;
-	top: 1637.226px;
+	top: 1951px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #You_should_not_go_to_the_publi {
 	position: absolute;
 	left: 470.5px;
-	top: 1647.726px;
+	top: 1961.5px;
 	overflow: visible;
 	width: 420px;
 	height: 56px;
@@ -2179,13 +2079,13 @@
 	width: 521.345px;
 	height: 99.515px;
 	left: 679.655px;
-	top: 1014.226px;
+	top: 1328px;
 	transform: matrix(1,0,0,1,0,0);
 }
 #Wash_your_hands_after_using_th {
 	position: absolute;
 	left: 740.5px;
-	top: 1025.726px;
+	top: 1339.5px;
 	overflow: visible;
 	width: 420px;
 	height: 56px;
@@ -2196,12 +2096,176 @@
 	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
+#___18___1 {
+	position: absolute;
+	width: 508px;
+	height: 114px;
+	left: 386px;
+	top: 3480px;
+	overflow: visible;
+}
+.___18 {
+	position: absolute;
+	overflow: visible;
+	width: 508px;
+	height: 114px;
+	left: 0px;
+	top: 0px;
+}
+#Take_the_Quiz {
+	position: absolute;
+	left: 127px;
+	top: 33px;
+	overflow: visible;
+	width: 256px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(112,112,112,1);
+}
+.___25 {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 508px;
+	top: 213px;
+}
+.___25_v {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 498px;
+	top: 201px;
+}
+#HOW_to_do_it_correctly {
+	position: absolute;
+	left: 523.5px;
+	top: 219.426px;
+	overflow: visible;
+	width: 235px;
+	height: 107px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.___25_x {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 912px;
+	top: 213px;
+}
+.___25_y {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 904px;
+	top: 201px;
+}
+#WHY_is_it_so_important_ {
+	position: absolute;
+	left: 930.5px;
+	top: 213.426px;
+	overflow: visible;
+	width: 236px;
+	height: 91px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.___25_ {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 100px;
+	top: 213px;
+}
+.___25_a {
+	position: absolute;
+	overflow: visible;
+	width: 277px;
+	height: 103px;
+	left: 92px;
+	top: 201px;
+}
+#WHEN_should_I_wash_my_hands {
+	position: absolute;
+	left: 107.5px;
+	top: 213.426px;
+	overflow: visible;
+	width: 250px;
+	height: 119px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(112,112,112,1);
+}
+.___48 {
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 113px;
+	left: 38px;
+	top: 2076px;
+}
+#HOW_ {
+	position: absolute;
+	left: 69px;
+	top: 2104px;
+	overflow: visible;
+	width: 217px;
+	height: 85px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
+.___51 {
+	position: absolute;
+	overflow: visible;
+	width: 278px;
+	height: 113px;
+	left: 38px;
+	top: 2925px;
+}
+#WHY_ {
+	position: absolute;
+	left: 69px;
+	top: 2953px;
+	overflow: visible;
+	width: 217px;
+	height: 85px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(255,255,255,1);
+}
 #ID017_bin {
 	position: absolute;
 	width: 170.988px;
 	height: 171.007px;
 	left: 791.015px;
-	top: 1143.228px;
+	top: 1457.001px;
 	overflow: visible;
 }
 .___781 {
@@ -2287,8 +2351,8 @@
 	position: absolute;
 	width: 94.333px;
 	height: 85px;
-	left: 537.833px;
-	top: 3615px;
+	left: 40px;
+	top: 35px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -2311,7 +2375,7 @@
 	left: 0px;
 	top: 0px;
 }
-#___19___43 {
+#___19___38 {
 	position: absolute;
 	width: 65.103px;
 	height: 62.094px;
@@ -2349,8 +2413,8 @@
 	position: absolute;
 	width: 94.333px;
 	height: 85px;
-	left: 647.833px;
-	top: 3615px;
+	left: 150px;
+	top: 35px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -2375,157 +2439,202 @@
 	left: 0px;
 	top: 0px;
 }
-#how_block {
+#menu_button {
 	position: absolute;
-	width: 1280px;
-	height: 877px;
-	left: 0px;
-	top: 2076px;
-	overflow: visible;
-}
-.___49 {
-	position: absolute;
-	overflow: visible;
-	width: 1280px;
-	height: 844px;
-	left: 0px;
-	top: 33px;
-}
-#Follow_this_video_to_wash_your {
-	position: absolute;
-	left: 87px;
-	top: 137px;
-	overflow: visible;
-	width: 1108px;
+	width: 94.333px;
 	height: 85px;
-	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
-	color: rgba(112,112,112,1);
+	left: 1145px;
+	top: 35px;
+	overflow: visible;
 }
-.___33 {
+.___60 {
 	position: absolute;
 	overflow: visible;
-	width: 881px;
-	height: 472px;
-	left: 180px;
-	top: 312px;
+	width: 94.333px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
 }
-.___98 {
+#__145 {
+	position: absolute;
+	width: 50px;
+	height: 38px;
+	left: 22px;
+	top: 23.666px;
+	overflow: visible;
+}
+.___62 {
 	position: absolute;
 	overflow: visible;
-	width: 131px;
-	height: 131px;
-	left: 555px;
-	top: 483px;
+	width: 50px;
+	height: 8px;
+	left: 0px;
+	top: 0px;
 }
-.____1 {
-	overflow: hidden;
+.___63 {
 	position: absolute;
-	width: 77px;
-	height: 67px;
-	transform: translate(0px, -2076px) matrix(1,0,0,1,575.8757,2582.3925) rotate(-30deg);
+	overflow: visible;
+	width: 50px;
+	height: 8px;
+	left: 0px;
+	top: 15px;
+}
+.___64 {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 8px;
+	left: 0px;
+	top: 30px;
+}
+#up_arrow {
+	transform: matrix(1,0,0,1,1150.3333,3310.3333) rotate(90deg);
+	transform-origin: center;
+	position: absolute;
+	width: 94.333px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___78_y {
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	height: 94.333px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_open_arrow_thick_bottom_z {
+	overflow: visible;
+	position: absolute;
+	width: 51.734px;
+	height: 68.979px;
+	transform: translate(232.333px, -29px) matrix(1,0,0,1,48.8225,156.4001) rotate(90deg);
 	transform-origin: center;
 	left: 0px;
 	top: 0px;
 }
-.___48 {
+#home_botton_ {
+	position: absolute;
+	width: 94.333px;
+	height: 85px;
+	left: 537.833px;
+	top: 3615px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Landing.html;
+	cursor: pointer;
+}
+#__61_ {
+	position: absolute;
+	width: 94.333px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.___34_ {
 	position: absolute;
 	overflow: visible;
-	width: 278px;
-	height: 113px;
-	left: 38px;
+	width: 94.333px;
+	height: 85px;
+	left: 0px;
 	top: 0px;
 }
-#HOW_ {
+#___19___43 {
 	position: absolute;
-	left: 69px;
-	top: 28px;
+	width: 65.103px;
+	height: 62.094px;
+	left: 17.813px;
+	top: 3.906px;
 	overflow: visible;
-	width: 217px;
-	height: 85px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
-	color: rgba(255,255,255,1);
 }
-#Think_of_the_red_ink_as_the_vi {
+.___35_ {
 	position: absolute;
-	left: 120px;
-	top: 215px;
 	overflow: visible;
-	width: 981px;
-	height: 109px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
-	color: rgba(112,112,112,1);
+	width: 38.015px;
+	height: 27px;
+	left: 10.065px;
+	top: 35.094px;
 }
-#why_block {
+.___496_ {
+	overflow: visible;
 	position: absolute;
-	width: 1280px;
-	height: 515px;
+	width: 41.855px;
+	height: 51.009px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,11.6238,5.3716) rotate(120deg);
+	transform-origin: center;
 	left: 0px;
-	top: 2925px;
-	overflow: visible;
-}
-.___50 {
-	position: absolute;
-	overflow: visible;
-	width: 1280px;
-	height: 487px;
-	left: 0px;
-	top: 28px;
-}
-.___51 {
-	position: absolute;
-	overflow: visible;
-	width: 278px;
-	height: 113px;
-	left: 38px;
 	top: 0px;
 }
-#WHY_ {
+.___36_ {
 	position: absolute;
-	left: 69px;
-	top: 28px;
 	overflow: visible;
-	width: 217px;
+	width: 8px;
+	height: 15px;
+	left: 50.167px;
+	top: 48.167px;
+}
+#back_arrow_ {
+	position: absolute;
+	width: 94.333px;
 	height: 85px;
-	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
-	color: rgba(255,255,255,1);
+	left: 647.833px;
+	top: 3615px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: What_Can_I_do.html;
+	cursor: pointer;
+}
+.___78_ {
+	position: absolute;
+	overflow: visible;
+	width: 94.333px;
+	height: 85px;
+	left: 0px;
+	top: 0px;
+}
+.Icon_open_arrow_thick_bottom_ {
+	overflow: visible;
+	position: absolute;
+	width: 51.734px;
+	height: 68.979px;
+	transform: translate(-29px, -147.334px) matrix(1,0,0,1,48.8225,156.4001) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
 }
 #__212 {
 	position: absolute;
-	width: 355px;
-	height: 122px;
-	left: 462.5px;
-	top: 273px;
+	width: 361px;
+	height: 126px;
+	left: 459.5px;
+	top: 3194px;
 	overflow: visible;
 }
-.___70 {
-	filter: drop-shadow(5px 3px 5px rgba(0, 0, 0, 0.302));
+.___69 {
 	position: absolute;
 	overflow: visible;
-	width: 370px;
-	height: 137px;
+	width: 355px;
+	height: 122px;
+	left: 6px;
+	top: 4px;
+}
+.___70 {
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 122px;
 	left: 0px;
 	top: 0px;
 }
 #Talk_to_an_expert_ {
 	position: absolute;
 	left: 500.5px;
-	top: 314.5px;
+	top: 3239.5px;
 	overflow: visible;
 	width: 281px;
 	height: 60px;
@@ -2539,7 +2648,7 @@
 #More_information_coming_ {
 	position: absolute;
 	left: 321px;
-	top: 175px;
+	top: 3100px;
 	overflow: visible;
 	width: 820px;
 	height: 80px;
@@ -2550,143 +2659,25 @@
 	font-size: 60px;
 	color: rgba(112,112,112,1);
 }
-#home_botton_h {
+#Think_of_the_red_ink_as_the_vi {
 	position: absolute;
-	width: 83.099px;
-	height: 74.878px;
-	left: 40px;
-	top: 20px;
+	left: 120px;
+	top: 2291px;
 	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: Landing.html;
-	cursor: pointer;
+	width: 981px;
+	height: 109px;
+	text-align: center;
+	font-family: AppleGothic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(112,112,112,1);
 }
-#__61_h {
+.___131 {
 	position: absolute;
-	width: 83.099px;
-	height: 74.878px;
+	overflow: visible;
+	width: 1280px;
+	height: 20px;
 	left: 0px;
 	top: 0px;
-	overflow: visible;
-}
-.___34_h {
-	position: absolute;
-	overflow: visible;
-	width: 83.1px;
-	height: 74.878px;
-	left: 0px;
-	top: 0px;
-}
-#___19___47 {
-	position: absolute;
-	width: 57.35px;
-	height: 54.7px;
-	left: 15.692px;
-	top: 3.441px;
-	overflow: visible;
-}
-.___35_h {
-	position: absolute;
-	overflow: visible;
-	width: 33.488px;
-	height: 23.785px;
-	left: 8.867px;
-	top: 30.915px;
-}
-.___496_ia {
-	overflow: visible;
-	position: absolute;
-	width: 36.871px;
-	height: 44.935px;
-	transform: translate(0px, 0px) matrix(1,0,0,1,10.2396,4.7319) rotate(120deg);
-	transform-origin: center;
-	left: 0px;
-	top: 0px;
-}
-.___36_ib {
-	position: absolute;
-	overflow: visible;
-	width: 7.047px;
-	height: 13.214px;
-	left: 44.192px;
-	top: 42.431px;
-}
-#back_arrow_ic {
-	position: absolute;
-	width: 83.099px;
-	height: 74.878px;
-	left: 140px;
-	top: 20px;
-	overflow: visible;
-	--web-animation: fadein 0.3s ease-out;
-	--web-action-type: page;
-	--web-action-target: What_Can_I_do.html;
-	cursor: pointer;
-}
-.___78_id {
-	position: absolute;
-	overflow: visible;
-	width: 83.1px;
-	height: 74.878px;
-	left: 0px;
-	top: 0px;
-}
-.Icon_open_arrow_thick_bottom_ie {
-	overflow: visible;
-	position: absolute;
-	width: 45.573px;
-	height: 60.764px;
-	transform: translate(0px, 0px) matrix(1,0,0,1,17.4619,7.9868) rotate(90deg);
-	transform-origin: center;
-	left: 0px;
-	top: 0px;
-}
-#menu_button {
-	position: absolute;
-	width: 80px;
-	height: 72.085px;
-	left: 1160px;
-	top: 20px;
-	overflow: visible;
-}
-.button_oval {
-	position: absolute;
-	overflow: visible;
-	width: 80px;
-	height: 72.085px;
-	left: 0px;
-	top: 0px;
-}
-#button_lines {
-	position: absolute;
-	width: 42.403px;
-	height: 32.226px;
-	left: 18.657px;
-	top: 20.07px;
-	overflow: visible;
-}
-.line {
-	position: absolute;
-	overflow: visible;
-	width: 42.403px;
-	height: 6.784px;
-	left: 0px;
-	top: 0px;
-}
-.line_ij {
-	position: absolute;
-	overflow: visible;
-	width: 42.403px;
-	height: 6.784px;
-	left: 0px;
-	top: 12.721px;
-}
-.line_ik {
-	position: absolute;
-	overflow: visible;
-	width: 42.403px;
-	height: 6.784px;
-	left: 0px;
-	top: 25.442px;
 }

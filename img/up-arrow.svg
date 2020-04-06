@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="85" height="94.333" viewBox="0 0 85 94.333">
+  <g id="up-arrow" transform="translate(232.334 -29) rotate(90)">
+    <g id="矩形_78" data-name="矩形 78" transform="translate(29 147.334)" fill="rgba(134,145,158,0.6)" stroke="rgba(248,248,248,0)" stroke-width="1">
+      <rect width="94.333" height="85" rx="42.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="93.333" height="84" rx="42" fill="none"/>
+    </g>
+    <path id="Icon_open-arrow-thick-bottom" data-name="Icon open-arrow-thick-bottom" d="M17.245,0V43.112H0L26.126,68.979,51.734,43.112H34.489V0Z" transform="translate(109.179 165.022) rotate(90)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+  </g>
+</svg>

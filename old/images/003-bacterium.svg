@@ -1,0 +1,40 @@
+<svg id="_003-bacterium" data-name="003-bacterium" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f0a032;
+      }
+
+      .cls-2 {
+        fill: #ffc33c;
+      }
+
+      .cls-3 {
+        fill: #fc3a52;
+      }
+    </style>
+  </defs>
+  <path id="Path_1530" data-name="Path 1530" class="cls-1" d="M16,7a1,1,0,0,1-1-1V3a1,1,0,1,1,2,0V6A1,1,0,0,1,16,7Z"/>
+  <path id="Path_1531" data-name="Path 1531" class="cls-2" d="M16,4a1,1,0,0,1-.707-.293l-2-2A1,1,0,1,1,14.707.293L16,1.586,17.293.293a1,1,0,1,1,1.414,1.414l-2,2A1,1,0,0,1,16,4Z"/>
+  <path id="Path_1532" data-name="Path 1532" class="cls-1" d="M16,30a1,1,0,0,1-1-1V26a1,1,0,0,1,2,0v3A1,1,0,0,1,16,30Z"/>
+  <path id="Path_1533" data-name="Path 1533" class="cls-2" d="M18,32a1,1,0,0,1-.707-.293L16,30.414l-1.293,1.293a1,1,0,1,1-1.414-1.414l2-2a1,1,0,0,1,1.414,0l2,2A1,1,0,0,1,18,32Z"/>
+  <path id="Path_1534" data-name="Path 1534" class="cls-1" d="M8.929,9.929a1,1,0,0,1-.707-.293L6.1,7.515A1,1,0,1,1,7.515,6.1L9.636,8.222a1,1,0,0,1-.707,1.707Z"/>
+  <path id="Path_1535" data-name="Path 1535" class="cls-2" d="M6.808,7.808H3.979a1,1,0,0,1,0-2H5.808V3.979a1,1,0,1,1,2,0V6.808A1,1,0,0,1,6.808,7.808Z"/>
+  <path id="Path_1536" data-name="Path 1536" class="cls-1" d="M25.192,26.192a1,1,0,0,1-.707-.293l-2.121-2.121a1,1,0,1,1,1.414-1.414L25.9,24.485a1,1,0,0,1-.707,1.707Z"/>
+  <path id="Path_1537" data-name="Path 1537" class="cls-2" d="M25.192,29.021a1,1,0,0,1-1-1V25.192a1,1,0,0,1,1-1h2.829a1,1,0,0,1,0,2H26.192v1.829A1,1,0,0,1,25.192,29.021Z"/>
+  <path id="Path_1538" data-name="Path 1538" class="cls-1" d="M6,17H3a1,1,0,0,1,0-2H6a1,1,0,0,1,0,2Z"/>
+  <path id="Path_1539" data-name="Path 1539" class="cls-2" d="M1,19a1,1,0,0,1-.707-1.707L1.586,16,.293,14.707a1,1,0,1,1,1.414-1.414l2,2a1,1,0,0,1,0,1.414l-2,2A1,1,0,0,1,1,19Z"/>
+  <path id="Path_1540" data-name="Path 1540" class="cls-1" d="M29,17H26a1,1,0,0,1,0-2h3a1,1,0,0,1,0,2Z"/>
+  <path id="Path_1541" data-name="Path 1541" class="cls-2" d="M31,19a1,1,0,0,1-.707-.293l-2-2a1,1,0,0,1,0-1.414l2-2a1,1,0,1,1,1.414,1.414L30.414,16l1.293,1.293A1,1,0,0,1,31,19Z"/>
+  <path id="Path_1542" data-name="Path 1542" class="cls-1" d="M6.808,26.192A1,1,0,0,1,6.1,24.485l2.121-2.121a1,1,0,1,1,1.414,1.414L7.515,25.9a1,1,0,0,1-.707.293Z"/>
+  <path id="Path_1543" data-name="Path 1543" class="cls-2" d="M6.808,29.021a1,1,0,0,1-1-1V26.192H3.979a1,1,0,0,1,0-2H6.808a1,1,0,0,1,1,1v2.829A1,1,0,0,1,6.808,29.021Z"/>
+  <path id="Path_1544" data-name="Path 1544" class="cls-1" d="M23.071,9.929a1,1,0,0,1-.707-1.707L24.485,6.1A1,1,0,1,1,25.9,7.515L23.778,9.636a1,1,0,0,1-.707.293Z"/>
+  <path id="Path_1545" data-name="Path 1545" class="cls-2" d="M28.021,7.808H25.192a1,1,0,0,1-1-1V3.979a1,1,0,1,1,2,0V5.808h1.829a1,1,0,0,1,0,2Z"/>
+  <circle id="Ellipse_351" data-name="Ellipse 351" class="cls-2" cx="10" cy="10" r="10" transform="translate(6 6)"/>
+  <rect id="Rectangle_99" data-name="Rectangle 99" class="cls-3" width="4" height="6" rx="2" transform="translate(22.331 13.913) rotate(135)"/>
+  <circle id="Ellipse_352" data-name="Ellipse 352" class="cls-3" cx="2" cy="2" r="2" transform="translate(11 17)"/>
+  <g id="Group_283" data-name="Group 283">
+    <circle id="Ellipse_353" data-name="Ellipse 353" class="cls-1" cx="1" cy="1" r="1" transform="translate(11 11)"/>
+    <circle id="Ellipse_354" data-name="Ellipse 354" class="cls-1" cx="1" cy="1" r="1" transform="translate(18 20)"/>
+  </g>
+</svg>

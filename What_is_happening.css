@@ -18,9 +18,9 @@
 #What_is_happening {
 	position: absolute;
 	width: 1280px;
-	height: 7461px;
+	height: 7500px;
 	background-color: rgba(255,255,255,1);
-	overflow: hidden;
+	overflow: visible;
 	--web-view-name: What is happening;
 	--web-view-id: What_is_happening;
 	--web-scale-to-fit: true;
@@ -46,11 +46,12 @@
 	width: 731px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 80px;
 	color: rgba(112,112,112,1);
+}
+
+#timeline {
+	display: block;
 }
 #home_botton {
 	position: absolute;
@@ -388,9 +389,6 @@
 	width: 792px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 60px;
 	color: rgba(112,112,112,1);
 }
@@ -402,9 +400,6 @@
 	width: 881px;
 	height: 74px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -416,9 +411,6 @@
 	width: 721px;
 	height: 120px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -426,13 +418,10 @@
 	position: absolute;
 	left: 81px;
 	top: 340px;
-	overflow: hidden;
+	overflow: visible;
 	width: 201px;
 	height: 80px;
 	text-align: right;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -458,13 +447,10 @@
 	position: absolute;
 	left: 421px;
 	top: 568px;
-	overflow: hidden;
+	overflow: visible;
 	width: 721px;
 	height: 112px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -472,13 +458,10 @@
 	position: absolute;
 	left: 81px;
 	top: 580px;
-	overflow: hidden;
+	overflow: visible;
 	width: 201px;
 	height: 80px;
 	text-align: right;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -495,13 +478,10 @@
 	position: absolute;
 	left: 421px;
 	top: 780px;
-	overflow: hidden;
+	overflow: visible;
 	width: 681px;
 	height: 200px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -522,9 +502,6 @@
 	width: 161px;
 	height: 88px;
 	text-align: right;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -541,13 +518,10 @@
 	position: absolute;
 	left: 421px;
 	top: 1120px;
-	overflow: hidden;
+	overflow: visible;
 	width: 561px;
 	height: 40px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -568,9 +542,6 @@
 	width: 221px;
 	height: 80px;
 	text-align: right;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -2668,9 +2639,6 @@
 	width: 768px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
@@ -2694,13 +2662,10 @@
 	position: absolute;
 	left: 180px;
 	top: 300px;
-	overflow: hidden;
+	overflow: visible;
 	width: 701px;
 	height: 380px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -2721,9 +2686,6 @@
 	width: 981px;
 	height: 180px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -2749,13 +2711,10 @@
 	position: absolute;
 	left: 440px;
 	top: 1000px;
-	overflow: hidden;
+	overflow: visible;
 	width: 761px;
 	height: 260px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -2763,13 +2722,10 @@
 	position: absolute;
 	left: 120px;
 	top: 1340px;
-	overflow: hidden;
-	width: 821px;
+	overflow: visible;
+	width: 810px;
 	height: 100px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -2799,9 +2755,6 @@
 	width: 724px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
@@ -2954,9 +2907,6 @@
 	width: 192px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 23px;
 	color: rgba(112,112,112,1);
 }
@@ -2977,9 +2927,6 @@
 	width: 135px;
 	height: 84px;
 	text-align: right;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 33px;
 	color: rgba(112,112,112,1);
 }
@@ -2991,9 +2938,6 @@
 	width: 62px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 23px;
 	color: rgba(112,112,112,1);
 }
@@ -3005,9 +2949,6 @@
 	width: 65px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 22px;
 	color: rgba(112,112,112,1);
 }
@@ -3019,9 +2960,6 @@
 	width: 58px;
 	white-space: nowrap;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 23px;
 	color: rgba(112,112,112,1);
 }
@@ -3614,20 +3552,12 @@
 	overflow: visible;
 }
 #Spread_of_the_Virus {
-	transform: translate(0.001px, -220px) matrix(1,0,0,1,447.5,2280) rotate(0deg);
-	transform-origin: center;
-	position: absolute;
-	left: 0px;
-	top: 0px;
-	overflow: visible;
-	width: 386px;
-	white-space: nowrap;
-	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 44px;
-	color: rgba(255,255,255,1);
+	transform: translate(0px, -220px) matrix(1,0,0,1,440,2280);
+    transform-origin: center;
+    position: absolute;
+    overflow: visible;
+    text-align: center;
+    color: rgba(255,255,255,1);
 }
 .___21 {
 	overflow: visible;
@@ -3682,13 +3612,10 @@
 	position: absolute;
 	left: 420.001px;
 	top: 240px;
-	overflow: hidden;
+	overflow: visible;
 	width: 461px;
 	height: 80px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3708,9 +3635,6 @@
 	width: 221px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3722,9 +3646,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3732,13 +3653,10 @@
 	position: absolute;
 	left: 740.001px;
 	top: 380px;
-	overflow: hidden;
+	overflow: visible;
 	width: 461px;
 	height: 60px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3750,9 +3668,6 @@
 	width: 461px;
 	height: 69px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3764,9 +3679,6 @@
 	width: 421px;
 	height: 140px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
@@ -3774,13 +3686,10 @@
 	position: absolute;
 	left: 100.001px;
 	top: 581px;
-	overflow: hidden;
+	overflow: visible;
 	width: 481px;
 	height: 110px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3800,9 +3709,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3818,13 +3724,10 @@
 	position: absolute;
 	left: 740.001px;
 	top: 380px;
-	overflow: hidden;
+	overflow: visible;
 	width: 461px;
 	height: 60px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3844,9 +3747,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3858,9 +3758,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3888,9 +3785,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3898,13 +3792,10 @@
 	position: absolute;
 	left: 760.001px;
 	top: 800px;
-	overflow: hidden;
+	overflow: visible;
 	width: 361px;
 	height: 40px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3932,9 +3823,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3946,9 +3834,6 @@
 	width: 461px;
 	height: 69px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -3984,9 +3869,6 @@
 	width: 131px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -3994,13 +3876,10 @@
 	position: absolute;
 	left: 760.001px;
 	top: 960px;
-	overflow: hidden;
+	overflow: visible;
 	width: 421px;
 	height: 60px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -4012,9 +3891,6 @@
 	width: 461px;
 	height: 40px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -4038,13 +3914,10 @@
 	position: absolute;
 	left: 420.001px;
 	top: 1160px;
-	overflow: hidden;
+	overflow: visible;
 	width: 461px;
 	height: 200px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 25px;
 	color: rgba(112,112,112,1);
 }
@@ -4056,18 +3929,15 @@
 	width: 331px;
 	height: 49px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #home_botton_pg {
 	position: absolute;
-	width: 94.333px;
+	width: 94px;
 	height: 85px;
 	left: 47%;
-	top: 7360px;
+	top: 7400px;
 	overflow: visible;
 	--web-animation: fadein 0.3s ease-out;
 	--web-action-type: page;
@@ -4208,12 +4078,8 @@
 	left: 260px;
 	top: 88px;
 	overflow: visible;
-	width: 933px;
-	white-space: nowrap;
+	width: 850px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 60px;
 	color: rgba(112,112,112,1);
 }
@@ -4225,9 +4091,6 @@
 	width: 881px;
 	height: 780px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
@@ -5245,13 +5108,10 @@
 	position: absolute;
 	left: 140px;
 	top: 1180px;
-	overflow: hidden;
+	overflow: visible;
 	width: 821px;
 	height: 259px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
@@ -5259,13 +5119,10 @@
 	position: absolute;
 	left: 160px;
 	top: 1120px;
-	overflow: hidden;
+	overflow: visible;
 	width: 761px;
 	height: 40px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
 	font-size: 30px;
 	color: rgba(112,112,112,1);
 }

@@ -6,7 +6,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Landing</title>
 <link rel="stylesheet" type="text/css" id="applicationStylesheet" href="index.css"/>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="global.css"/>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;400;300&display=swap" rel="stylesheet">
 <script id="applicationScript" type="text/javascript" src="server.js"></script>
+
 </head>
 <body>
 <div id="Landing">
@@ -19,38 +23,40 @@
 			<path fill="rgba(255,208,91,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="yellow_gaussian" d="M 863.791259765625 10.94438743591309 C 966.2111206054688 5.57613468170166 1034.599975585938 104.6123199462891 1143.732788085938 196.021728515625 C 1222.748901367188 262.1872253417969 1316.341064453125 290.7354125976562 1316.341064453125 290.7354125976562 L -3.658812999725342 290.7354125976562 C -3.658812999725342 290.7354125976562 282.1087951660156 254.7081298828125 517.7849731445312 161.8138275146484 C 656.5780029296875 107.1016006469727 793.1240234375 14.64833831787109 863.791259765625 10.94438743591309 Z">
 			</path>
 		</svg>
-		<div id="CovidCheatSheet">
-			<span>CovidCheatSheet</span>
+		<div id="title">
+			<h1>CovidCheatSheet</h1>
+			<h4 style="font-weight: 400;">Facts and FAQs about COVID-19 </h4>
 		</div>
 		<div id="what_is_happening_button">
 			<a href= "#whats_happening_block">
 				<svg class="white_button_dy">
-					<rect fill="rgba(255,255,255,1)" id="white_button_dy" rx="40" ry="40" x="0" y="0" width="260" height="80">
+					<rect fill="rgba(255,255,255,1)" id="white_button_dy" rx="40" ry="40" x="0" y="0" width="300" height="80">
 					</rect>
 				</svg>
-				<div id="What_is_Happening_">
-					<span>What is Happening?</span>
-			</div></a>
+				<div id="button-text">
+					<h5>What is Happening?</h5>
+				</div>
+			</a>
 		</div>
 		<div id="what_can_i_do_button">
 			<a href="#what_can_I_do_block">
 			<svg class="white_button_ds">
-				<rect fill="rgba(255,255,255,1)" id="white_button_ds" rx="40" ry="40" x="0" y="0" width="260" height="80">
+				<rect fill="rgba(255,255,255,1)" id="white_button_ds" rx="40" ry="40" x="0" y="0" width="300" height="80">
 				</rect>
 			</svg>
-			<div id="What_Can_I_do__dt">
-				<span>What Can I do?</span>
+			<div id="button-text">
+				<h5>What Can I do?</h5>
 			</div>
 			</a>
 		</div>
 		<div id="ask_expert_button">
 			<a href="#more_questions_block">
 			<svg class="white_button_dv">
-				<rect fill="rgba(255,255,255,1)" id="white_button_dv" rx="40" ry="40" x="0" y="0" width="260" height="80">
+				<rect fill="rgba(255,255,255,1)" id="white_button_dv" rx="40" ry="40" x="0" y="0" width="300" height="80">
 				</rect>
 			</svg>
-			<div id="Ask_An_Expert_">
-				<span>Ask An Expert!</span>
+			<div id="button-text">
+				<h5>Ask An Expert!</h5>
 			</div>
 			</a>
 		</div>
@@ -74,12 +80,9 @@
 				</svg>
 			</div>
 		</div>
-		<div id="Facts_and_FAQs_about_COVID_19_">
-			<span>Facts and FAQs about COVID-19 </span><br>
-		</div>
+
 	</div>
 	<div id="whats_happening_block">
-		<div id="whats_happening">
 			<svg class="yellow_background" viewBox="0 0 1280 540">
 				<path fill="rgba(255,208,91,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="yellow_background" d="M 0 0 L 1280 0 L 1280 540 L 0 540 L 0 0 Z">
 				</path>
@@ -88,9 +91,8 @@
 				<path fill="rgba(195,250,218,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="green_shape" d="M 283.0931701660156 131.5653991699219 L 363.0372619628906 208.0428314208984 L 446.32568359375 86.23533630371094 L 566.5767211914062 208.0428314208984 L 830.8988647460938 86.23533630371094 L 971.7797241210938 474.6092224121094 L 1062.244262695312 539.1911010742188 L 1139.982543945312 474.6092224121094 L 1187.292846679688 539.1911010742188 L 1233.457153320312 503.1175842285156 L 1279.95947265625 602.630615234375 L 1279.95947265625 602.630615234375 L 0 602.630615234375 L 0 62.63061904907227 L 283.0931701660156 131.5653991699219 Z">
 				</path>
 			</svg>
-		</div>
 		<div id="What_Is_Happening_">
-			<span>What Is Happening?</span>
+			<h2>What Is Happening?</h2>
 		</div>
 		<div id="economy"> <!-- onclick="application.goToTargetView(event)" -->
 			<a href="What_is_happening.html#economy_block">
@@ -352,51 +354,51 @@
 			</a>
 		</div>
 		<div id="Brief_History_of_COVID_19">
-			<span>Brief History of COVID-19</span>
+			<h5>Brief History of COVID-19</h5>
 		</div>
 		<div id="What_is_a_virus_">
-			<span>What is a virus?</span>
+			<h5>What is a virus?</h5>
 		</div>
 		<div id="How_did_we_respond_">
-			<span>How did we respond?</span>
+			<h5>How did we respond?</h5>
 		</div>
 		<div id="How_did_it_impact_the_economy_">
-			<span>How did it impact the economy?</span>
+			<h5>How did it impact the economy?</h5>
 		</div>
 	</div>
 	<div id="what_can_I_do_block">
 		<svg class="what_can_i_do">
-			<rect fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="what_can_i_do" rx="0" ry="0" x="0" y="0" width="1280" height="460">
+			<rect fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="what_can_i_do" rx="0" ry="0" x="0" y="0" width="100%" height="460">
 			</rect>
 		</svg>
 		<div id="What_Can_I_do_">
-			<span>What Can I do?</span>
+			<h2>What Can I do?</h2>
 		</div>
 		<a id="self" href="What_Can_I_do.html">
 			<svg class="white_button">
-				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="white_button" rx="49.5" ry="49.5" x="0" y="0" width="384" height="99">
+				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="white_button" rx="49.5" ry="49.5" x="0" y="0" width="384" height="100">
 				</rect>
 			</svg>
-			<div id="Take_Care_of_Yourself">
-				<span>Take Care of Yourself</span>
+			<div id="button-text">
+				<h5>Take Care of Yourself</h5>
 			</div>
 		</a>
 		<a id="others" href="What_Can_I_do.html#others_block">
 			<svg class="white_button_be">
-				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" onclick="application.goToTargetView(event)" id="white_button_be" rx="49.5" ry="49.5" x="0" y="0" width="384" height="99">
+				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" onclick="application.goToTargetView(event)" id="white_button_be" rx="49.5" ry="49.5" x="0" y="0" width="384" height="100">
 				</rect>
 			</svg>
-			<div id="Take_Care_of_Others">
-				<span>Take Care of Others</span>
+			<div id="button-text">
+				<h5>Take Care of Others</h5>
 			</div>
 		</a>
 		<a id="world" href="What_Can_I_do.html#world_block">
 			<svg class="white_button_bh">
-				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" onclick="application.goToTargetView(event)" id="white_button_bh" rx="49.5" ry="49.5" x="0" y="0" width="384" height="99">
+				<rect fill="rgba(252,252,252,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" onclick="application.goToTargetView(event)" id="white_button_bh" rx="49.5" ry="49.5" x="0" y="0" width="384" height="100">
 				</rect>
 			</svg>
-			<div id="Stay_Curious_and_Informed">
-				<span>Stay Curious and Informed</span>
+			<div id="button-text">
+				<h5>Stay Curious and Informed</h5>
 			</div>
 		</a>
 		<div id="others_graphic">
@@ -423,52 +425,50 @@
 	</div>
 	<div id="more_questions_block">
 		<svg class="more_questions">
-			<rect fill="rgba(198,231,245,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="more_questions" rx="0" ry="0" x="0" y="0" width="1280" height="540">
+			<rect fill="rgba(198,231,245,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="more_questions" rx="0" ry="0" x="0" y="0" width="100%" height="540">
 			</rect>
 		</svg>
-		<div id="submit_button" class="submit_button">
-			<svg class="___1012" viewBox="0 0 173 61">
-				<path fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="___1012" d="M 37.19948196411133 0 L 135.8005218505859 0 C 156.34521484375 0 173 13.65531349182129 173 30.50000190734863 C 173 47.34468460083008 156.34521484375 61.00000381469727 135.8005218505859 61.00000381469727 L 37.19948196411133 61.00000381469727 C 16.6547737121582 61.00000381469727 0 47.34468460083008 0 30.50000190734863 C 0 13.65531349182129 16.6547737121582 0 37.19948196411133 0 Z">
-				</path>
+		<div id="submit_button">
+			<svg class="submit_button">
+				<rect fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="submit_button" rx="30" ry="30" x="0" y="0" width="150" height="60">
+				</rect>
 			</svg>
-			<div id="Submit_">
-				<span>Submit</span><br>
+			<div id="button-text">
+				<h5 style="font-weight: 400">Submit</h5>
 			</div>
 		</div>
 		<div id="I_Have_More_Questions">
-			<span>I Have More Questions</span>
+			<h2>I Have More Questions</h2>
 		</div>
 		<div id="Don_t_hesitate_to_ask_">
-			<span>Don’t hesitate to ask!</span>
+			<h4>Don’t hesitate to ask!</h4>
 		</div>
-		<svg class="textbox" viewBox="0 0 600 60">
-			<path fill="rgba(255,253,253,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="textbox" d="M 37.16417694091797 0 L 562.8358154296875 0 C 583.361083984375 0 600 13.43145656585693 600 30 C 600 46.56854248046875 583.361083984375 60 562.8358154296875 60 L 37.16417694091797 60 C 16.63897132873535 60 0 46.56854248046875 0 30 C 0 13.43145656585693 16.63897132873535 0 37.16417694091797 0 Z">
-			</path>
+		<svg class="textbox">
+			<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="___70" rx="30" ry="30" x="0" y="0" width="700" height="60">
+					</rect>
 		</svg>
 		<div id="chat_button">
-			<div id="__223">
-				<svg class="___70">
-					<rect fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="___70" rx="42" ry="42" x="0" y="0" width="440" height="84">
-					</rect>
-				</svg>
-			</div>
-			<div id="Chat_with_an_expert">
-				<span>Chat with an expert</span>
+			<svg class="chat_button">
+				<rect fill="rgba(255,190,190,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="chat_button" rx="42" ry="42" x="0" y="0" width="440" height="80">
+				</rect>
+			</svg>
+			<div id="button-text">
+				<h4>Chat with an expert</h4>
 			</div>
 		</div>
 		<div id="Or_you_can_">
-			<span>Or you can:</span>
+			<h4>Or you can:</h4>
 		</div>
 	</div>
 	<div id="about_block">
 		<div id="About_The_Project">
-			<span>About The Project</span>
+			<h3>About The Project</h3>
 		</div>
 		<div id="This_website_is_created_by_Yao">
-			<span>This website is created by Yao Yin and Daniela Shuman.</span>
+			<p>This website is created by Yao Yin and Daniela Shuman.</p>
 		</div>
 		<div id="Many_thanks_to_those_who_provi">
-			<span>Many thanks to those who provided the help and resources that made it possible.</span><br>
+			<p>Many thanks to those who provided the help and resources that made it possible.</p><br>
 		</div>
 	</div>
 </div>

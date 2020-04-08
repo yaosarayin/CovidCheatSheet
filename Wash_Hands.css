@@ -28,6 +28,7 @@
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
+	--web-center-horizontally: true;
 }
 @keyframes fadein {
 
@@ -41,16 +42,12 @@
 }
 #Washing_Your_Hands {
 	position: absolute;
-	left: 318px;
+	left: 270px;
 	top: 78px;
 	overflow: visible;
 	width: 767px;
 	white-space: nowrap;
-	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 80px;
+	text-align: center;
 	color: rgba(112,112,112,1);
 }
 #quiz_button {
@@ -73,13 +70,9 @@
 }
 #Take_the_Quiz {
 	position: relative;
-	top: 33px;
+	top: 25px;
 	white-space: nowrap;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #how_button {
@@ -114,10 +107,6 @@
 	width: 235px;
 	height: 107px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #why_button {
@@ -152,10 +141,6 @@
 	width: 236px;
 	height: 91px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #when_button {
@@ -190,10 +175,6 @@
 	width: 250px;
 	height: 119px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #when_block {
@@ -249,16 +230,12 @@
 }
 #WHEN_ {
 	position: absolute;
-	left: 71px;
-	top: 86.226px;
+	left: 60px;
+	top: 80px;
 	overflow: visible;
 	width: 272px;
 	height: 85px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
 #You_are_dealing_with_food_ {
@@ -269,10 +246,6 @@
 	width: 710px;
 	height: 44px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
 	color: rgba(112,112,112,1);
 }
 #Before__during__and_after_prep {
@@ -283,10 +256,6 @@
 	width: 586px;
 	height: 113px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #You_were_near_someone_that_is_ {
@@ -297,24 +266,16 @@
 	width: 907px;
 	height: 44px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
 	color: rgba(112,112,112,1);
 }
 #You_just_ {
 	position: absolute;
 	left: 35px;
 	top: 1042.226px;
-	overflow: hidden;
+	overflow: visible;
 	width: 823px;
 	height: 44px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 40px;
 	color: rgba(112,112,112,1);
 }
 #Before_and_after_caring_for_so {
@@ -325,10 +286,6 @@
 	width: 738px;
 	height: 99px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #Went_to_the_public {
@@ -339,10 +296,6 @@
 	width: 369px;
 	height: 44px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #ID001_washing_hands {
@@ -432,10 +385,6 @@
 	width: 223px;
 	height: 91px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #cooking {
@@ -1005,10 +954,6 @@
 	width: 840px;
 	height: 61px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #ID012_dogs {
@@ -1419,7 +1364,7 @@
 	width: 128.74px;
 	height: 167.662px;
 	left: 48px;
-	top: 1113.565px;
+	top: 1120px;
 	overflow: visible;
 }
 .___430 {
@@ -1846,10 +1791,6 @@
 	width: 351px;
 	height: 41px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #Blew_your_nose__coughed_or_sne {
@@ -1860,10 +1801,6 @@
 	width: 550px;
 	height: 115px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #Touched_your_pet__pet_food__or {
@@ -1874,10 +1811,6 @@
 	width: 550px;
 	height: 109px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #Touched_garbage_or_garbage_bag {
@@ -1888,10 +1821,6 @@
 	width: 301px;
 	height: 135px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #cough {
@@ -2167,10 +2096,6 @@
 	width: 420px;
 	height: 56px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
 .___494 {
@@ -2190,10 +2115,6 @@
 	width: 420px;
 	height: 56px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 20px;
 	color: rgba(112,112,112,1);
 }
 #ID017_bin {
@@ -2399,10 +2320,6 @@
 	width: 1108px;
 	height: 85px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
 	color: rgba(112,112,112,1);
 }
 .___33 {
@@ -2442,15 +2359,11 @@
 #HOW_ {
 	position: absolute;
 	left: 69px;
-	top: 28px;
+	top: 20px;
 	overflow: visible;
 	width: 217px;
 	height: 85px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
 #Think_of_the_red_ink_as_the_vi {
@@ -2461,10 +2374,6 @@
 	width: 981px;
 	height: 109px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 35px;
 	color: rgba(112,112,112,1);
 }
 #why_block {
@@ -2499,10 +2408,6 @@
 	width: 217px;
 	height: 85px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
 	color: rgba(255,255,255,1);
 }
 #__212 {
@@ -2518,22 +2423,18 @@
 	position: absolute;
 	overflow: visible;
 	width: 370px;
-	height: 137px;
+	height: 140px;
 	left: 0px;
 	top: 0px;
 }
 #Talk_to_an_expert_ {
 	position: absolute;
 	left: 500.5px;
-	top: 314.5px;
+	top: 290px;
 	overflow: visible;
 	width: 281px;
 	height: 60px;
 	text-align: center;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 30px;
 	color: rgba(112,112,112,1);
 }
 #More_information_coming_ {
@@ -2544,10 +2445,6 @@
 	width: 820px;
 	height: 80px;
 	text-align: left;
-	font-family: AppleGothic;
-	font-style: normal;
-	font-weight: normal;
-	font-size: 60px;
 	color: rgba(112,112,112,1);
 }
 #home_botton_h {

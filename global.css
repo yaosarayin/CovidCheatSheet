@@ -1,0 +1,61 @@
+.mediaViewInfo {
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+	scroll-behavior: smooth;
+}
+#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening{
+	position: absolute;
+	transform: translateX(-50%);
+	left: 50%;
+	width: 1280px;
+	overflow: hidden;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+
+h1, h2, h3, h4, h5, p, span {
+	font-family: 'Montserrat', sans-serif;
+	color: rgba(112,112,112,1);
+	font-weight: 300;
+
+}
+
+h1 {
+	font-size: 80px;
+	font-weight: 500;
+}
+
+h2 {
+	font-size: 60px;
+
+}
+
+h3 {
+	font-size: 40px;
+}
+
+h4 {
+	font-size: 30px;
+
+}
+
+h5 {
+	font-size: 25px;
+}
+p {
+	font-size: 20px;
+}
+
+

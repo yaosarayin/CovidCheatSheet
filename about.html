@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Landing</title>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="global.css"/>
+
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
+
+<script id="applicationScript" type="text/javascript" src="server.js"></script>
+
+</head>
+<body>
+	<style type="text/css">
+		.mediaViewInfo {
+			--web-view-name: About;
+			--web-view-id: About;
+			--web-scale-to-fit: true;
+			--web-scale-to-fit-type: width;
+			--web-scale-on-resize: true;
+			--web-enable-deep-linking: true;
+		}
+		:root {
+			--web-view-ids: About;
+		}
+		* {
+			margin: 0;
+			padding: 0;
+			box-sizing: border-box;
+			border: none;
+			scroll-behavior: smooth;
+		}
+		#About {
+			position: absolute;
+			transform: translateX(-50%);
+			left: 50%;
+			width: 100%;
+			width: 1280px;
+			height: auto;
+			--web-view-name: About;
+			--web-view-id: About;
+			--web-scale-to-fit: true;
+			--web-scale-to-fit-type: width;
+			--web-scale-on-resize: true;
+			--web-center-horizontally: true;
+			--web-enable-deep-linking: true;
+			}
+
+		#home-button-top {
+			position: absolute;
+			top: 20px;
+			left: 40px;
+			width: 100px;
+			height: 80px;
+			}
+		#home-button-bottom {
+			position: absolute;
+			top: 1740px;
+			left: 590px;
+			width: 100px;
+			height: 80px;
+		}
+
+		#about-us-block {
+			position: absolute;
+			top: 200px;
+			left: 0px;
+			height: 600px;
+			width: 1280px;
+			background-color: #FF8997;
+		}
+
+		#title {
+			position: absolute;
+			top: 80px;
+			left: 467px;
+		}
+
+		.chat-bubble-1 h5 {
+			position: absolute;
+			padding: 20px;
+			width: 400px;
+			height: 260px;
+			top: 220px;
+			left: 30px;
+		}
+
+		#chat-bubble-1, #chat-bubble-3 {
+			filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.161));
+			overflow: visible;
+			position: absolute;
+			width: 435px;
+			height: 360px;
+			top: 200px;
+		}
+
+		#chat-bubble-1 {
+			left: 20px;
+		}
+
+		#chat-bubble-3 {
+			left: 840px;
+		}
+
+		#chat-bubble-2 {
+			filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.161));
+			overflow: visible;
+			position: absolute;
+			width: 935px;
+			height: 235px;
+			left: 160px;
+			top: 20px;
+			transform: matrix(1,0,0,1,0,0);
+		}
+
+		.chat-bubble-3 h5 {
+			position: absolute;
+			padding: 20px;
+			width: 400px;
+			height: 260px;
+			top: 220px;
+			left: 860px;
+		}
+
+		.chat-bubble-2 h5 {
+			position: absolute;
+			padding: 20px;
+			width: 860px;
+			height: 120px;
+			top: 20px;
+			left: 200px;
+		}
+
+		#yao-icon {
+			position: absolute;
+			top: 300px;
+			left: 420px;
+		}
+
+		#daniela-icon {
+			position: absolute;
+			top: 300px;
+			left: 660px;
+		}
+
+		#thank-you-block {
+			position: absolute;
+			top: 800px;
+			left: 0px;
+			height: 920px;
+			width: 1280px;
+			background-color: #FFD05B;
+		}
+
+		#chat-bubble-4 {
+			filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.161));
+			overflow: visible;
+			position: absolute;
+			width: 775px;
+			height: 175px;
+			left: 240px;
+			top: 20px;
+			transform: matrix(1,0,0,1,0,0);
+		}
+
+		.chat-bubble-4 h5 {
+			position: absolute;
+			width: 675px;
+			height: 68px;
+			top: 92px;
+			left: 280px;
+		}
+
+		.thank-you-s {
+			position: absolute;
+			top: 200px;
+		}
+		.thank-you-s ul{
+			padding: 30px;
+		}
+		#footer {
+			position: absolute;
+			top: 1720px;
+			left: 0px;
+			height: 120px;
+			width: 1280px;
+		}
+
+	</style>
+
+	<div id="About">
+		<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
+		<a href="index.html"><img id='home-button-bottom' src="img/home-button.svg"></a>
+		<h1 id="title"> About Us </h1>
+	<div id="about-us-block">
+
+		<div class="chat-bubble-1">	
+			<svg id="chat-bubble-1" viewBox="0 0 420 360">
+				<path fill="rgba(255,255,255,1)" d="M 52.5 0 L 367.5 0 C 396.4949645996094 0 420 18.59740447998047 420 41.53845977783203 L 420 276.9230651855469 C 420 299.8641357421875 396.4949645996094 318.4615478515625 367.5 318.4615478515625 L 185.3460845947266 318.4615478515625 L 262.5 360 L 110.6629409790039 318.4615478515625 L 52.5 318.4615478515625 C 23.50505256652832 318.4615478515625 0 299.8641357421875 0 276.9230651855469 L 0 41.53845977783203 C 0 18.59740447998047 23.50505256652832 0 52.5 0 Z">
+				</path>
+			</svg>
+
+			<h5 class="chat-bubble-1">My name is Yao Yin. I’m originally from Shenzhen, China. I love the math & sciences, running, drawing pictures, and cooking all kinds of good food. You can learn more about me here!</h5>
+		</div>
+	
+		<div class="chat-bubble-3">	
+		<svg id="chat-bubble-3" viewBox="0 0 420 360">
+			<path fill="rgba(255,255,255,1)"  d="M 367.5 0 L 52.5 0 C 23.50505065917969 0 0 18.59740447998047 0 41.53846740722656 L 0 276.9230651855469 C 0 299.8641357421875 23.50505065917969 318.4615478515625 52.5 318.4615478515625 L 234.6539154052734 318.4615478515625 L 157.5 360 L 309.3370666503906 318.4615478515625 L 367.5 318.4615478515625 C 396.4949340820312 318.4615478515625 420 299.8641357421875 420 276.9230651855469 L 420 41.53846740722656 C 420 18.59740447998047 396.4949340820312 0 367.5 0 Z">
+			</path>
+
+		</svg>
+
+		<h5>I am Daniela Shuman! I am originally from Seattle, WA. I am a Public Transit Enthusiast and I am super interested in Clean Tech. </h5>
+		</div>
+
+		<div class="chat-bubble-2">
+		<svg id="chat-bubble-2" viewBox="0 0 920 220">
+			<path fill="rgba(255,255,255,1)" id="___1623" d="M 65 0 L 855 0 C 890.8984985351562 0 920 29.10149002075195 920 65 L 920 95 C 920 130.8985137939453 890.8984985351562 160 855 160 L 626.456787109375 160 L 600 220 L 580 160 L 360 160 L 360 220 L 320.6514892578125 160 L 65 160 C 29.10149002075195 160 0 130.8985137939453 0 95 L 0 65 C 0 29.10149002075195 29.10149002075195 0 65 0 Z">
+			</path>
+		</svg>
+		<h5>
+			Hello! We are the authors of this site. Both of us are current Computer Science undergraduates at Harvard. Please do not hesitate to contact us if you have any questions/comments/suggestions! Or if you just want to chat! It is very nice to meet you!
+		</h5>
+		</div>
+				
+		<img id="yao-icon" src="img/yao-icon.svg">
+		<img id="daniela-icon" src="img/daniela-icon.svg">
+		
+	</div>
+	<div id="thank-you-block">
+		<div class="chat-bubble-4">
+		<svg id="chat-bubble-4" viewBox="0 -40 760 160">
+			<path fill="rgba(255,255,255,1)" d="M 60 0 L 250.0697479248047 0 L 280 -40 L 290.060791015625 0 L 493.9150390625 0 L 520 -40 L 549.0983276367188 0 L 700 0 C 733.1370849609375 0 760 26.8629150390625 760 60 C 760 93.1370849609375 733.1370849609375 120 700 120 L 60 120 C 26.8629150390625 120 0 93.1370849609375 0 60 C 0 26.8629150390625 26.8629150390625 0 60 0 Z">
+			</path>
+		</svg>
+		<h5>We Would like to thank everyone who offered to help us! This could not have happened without you!</h5>
+	</div>
+
+	<div class="thank-you-s">
+		<ul>Pandemic Response Hackathon: For sparking the idea and connecting us with amazing people.<ul>
+
+		<ul>Paige Jarreau, Justin Helmig & Matt Lavin from Lifeology & LifeOmic: For collaborating with us from the start and introducing us to so many supportive, like-minded people.</ul>
+
+		<ul>Kelsey Hunter & Daniel Regis from Paloma: for helping us tremendously with the chat platform and being so generous with their time and resources</ul>
+	</div>
+	</div>
+	<div id="footer"></div>
+</div>
+
+
+</body>

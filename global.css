@@ -12,7 +12,7 @@
 	border: none;
 	scroll-behavior: smooth;
 }
-#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening, #About{
+#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening{
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;

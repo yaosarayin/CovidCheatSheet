@@ -1,4 +1,4 @@
-/*.mediaViewInfo {
+.mediaViewInfo {
 	--web-scale-to-fit: true;
 	--web-scale-to-fit-type: width;
 	--web-scale-on-resize: true;
@@ -12,7 +12,7 @@
 	border: none;
 	scroll-behavior: smooth;
 }
-#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening{
+#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening, #About{
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
@@ -23,7 +23,7 @@
 	--web-scale-on-resize: true;
 	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
-}*/
+}
 
 h1, h2, h3, h4, h5, p, span, ul {
 	font-family: 'Montserrat', sans-serif;
@@ -63,4 +63,17 @@ p {
 	font-size: 20px;
 }
 
-
+#home-button-top {
+	position: absolute;
+	top: 20px;
+	left: 40px;
+	width: 100px;
+	height: 80px;
+	}
+#home-button-bottom {
+	position: absolute;
+	bottom: 20px;
+	left: 590px;
+	width: 100px;
+	height: 80px;
+}

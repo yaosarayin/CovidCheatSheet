@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Creative Projects</title>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="global.css"/>
+
+<script id="applicationScript" type="text/javascript" src="server.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+
+</head>
+<style type="text/css">
+	.mediaViewInfo {
+			--web-view-name: creative-projects;
+			--web-view-id: creative-projects;
+		}	
+	:root {
+		--web-view-ids: creative-projects;
+	}
+
+	#creative-projects {
+		position: absolute;
+		transform: translateX(-50%);
+		left: 50%;
+		width: 1280px;
+		height: 1583px;
+		--web-view-name: creative-projects;
+		--web-view-id: creative-projects;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-enable-deep-linking: true;
+		}
+
+
+	#block {
+		background-image: url('img/cp-background.svg');
+		position: absolute;
+		height: 1260px;
+		width: 100%;
+		top: 200px;
+	}
+
+	#title {
+			position: absolute;
+			top: 80px;
+			left: 329px;
+		}
+
+	#content-grid {
+		display: grid;
+		grid-gap: 0px;
+		grid-template-columns: 50% 50%;
+		grid-template-rows: auto auto auto auto auto auto;
+
+	}
+
+	.grid-element {
+		position: relative;
+		height: 160px;
+		margin: 40px 20px 0px 20px;
+	}
+
+	.content-bubble {
+		filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.161));
+		overflow: visible;
+		width: 580px;
+		height: 160px;
+	}
+
+	.content-img {
+		position: absolute;
+		width: 110px;
+		height: 110px;
+		top: 20px;
+		left: 60px;
+		z-index: 1000;
+	}
+
+	.content-text {
+		position: absolute;
+		text-align: left;
+		width: 320px;
+		height: 120px;
+		top: 20px;
+		left: 200px;
+		z-index: 1000;
+	}
+
+
+
+</style>
+<body>
+<div id="creative-projects">
+	<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
+	<a href="index.html"><img id='home-button-bottom-2' src="img/home-button.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-top' src="img/back-arrow.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-bottom' src="img/back-arrow.svg"></a>
+
+	<h1 id="title">Creative Projects</h1>
+	<div id='block'>
+		
+		<div id="content-grid">
+			<a class="grid-element" href="https://www.bostonchildrensmuseum.org/museum-virtual-tour">
+				<svg class="content-bubble">
+					<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+					</rect>
+				</svg>
+				<img class="content-img" src="img/boston-children-museum.png">
+				<h5 class="content-text">
+					Take a virtual tour of the Boston Children’s Museum! 
+				</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+				<svg class="content-bubble">
+					<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+					</rect>
+				</svg>
+				
+				<img class="content-img" src="img/origami.svg">
+				<h5 class="content-text">
+					Learn how to make all kinds of Origami!
+				</h5>
+				
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/012-dogs.svg">
+			<h5 class="content-text">
+				Teach your pets new tricks!
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/chess.svg">
+			<h5 class="content-text">
+				Learn chess and other board games
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/scissors.svg">
+			<h5 class="content-text">
+				Make anything you want with a pair of scissors
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/rampart.svg">
+			<h5 class="content-text">
+				Make a fortress or a castle with cardboard
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/008-creativity.svg">
+			<h5 class="content-text">
+				Some printable materials for reading and writing
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/muffin.svg">
+			<h5 class="content-text">
+				Make and decorate cupcakes, or other baked goods
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/khan-academy.png">
+			<h5 class="content-text">
+				Learn something new on Khan Academy
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/paint.svg">
+			<h5 class="content-text">
+				Try these daily art challenges!
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/camera.svg">
+			<h5 class="content-text">
+				Learn how to make a stop motion video
+			</h5>
+			</a>
+
+			<a class="grid-element" href=" ">
+			<svg class="content-bubble">
+				<rect fill="rgba(255,255,255,0.902)" id="___142" rx="73" ry="73" x="0" y="0" width="580" height="160">
+				</rect>
+			</svg>
+			<img class="content-img" src="img/puzzle.svg">
+			<h5 class="content-text">
+				Solove these puzzles!
+			</h5>
+			</a>
+			
+
+
+		</div>
+	</div>
+</div>
+	
+	

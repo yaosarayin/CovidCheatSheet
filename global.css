@@ -12,7 +12,8 @@
 	border: none;
 	scroll-behavior: smooth;
 }
-#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening{
+
+#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening, #creative-projects {
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
@@ -24,6 +25,7 @@
 	--web-center-horizontally: true;
 	--web-enable-deep-linking: true;
 }
+
 
 h1, h2, h3, h4, h5, p, span, ul {
 	font-family: 'Montserrat', sans-serif;
@@ -70,10 +72,35 @@ p {
 	width: 100px;
 	height: 80px;
 	}
+
+#back-arrow-top {
+	position: absolute;
+	top: 20px;
+	left: 160px;
+	width: 100px;
+	height: 80px;
+	}
+
+#back-arrow-bottom {
+	position: absolute;
+	bottom: 20px;
+	left: 660px;
+	width: 100px;
+	height: 80px;
+}
+
 #home-button-bottom {
 	position: absolute;
 	bottom: 20px;
 	left: 590px;
+	width: 100px;
+	height: 80px;
+}
+
+#home-button-bottom-2 {
+	position: absolute;
+	bottom: 20px;
+	left: 520px;
 	width: 100px;
 	height: 80px;
 }

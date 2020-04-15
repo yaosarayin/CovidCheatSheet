@@ -1,36 +1,16 @@
 .mediaViewInfo {
 	--web-view-name: Landing;
 	--web-view-id: Landing;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
-	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
-	--web-enable-deep-linking: true;
 }
 :root {
 	--web-view-ids: Landing;
 }
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	border: none;
-	scroll-behavior: smooth;
-}
+
 #Landing {
-	position: absolute;
-	transform: translateX(-50%);
-	left: 50%;
-	width: 1280px;
 	height: 3000px;
 	overflow: hidden;
 	--web-view-name: Landing;
 	--web-view-id: Landing;
-	--web-scale-to-fit: true;
-	--web-scale-to-fit-type: width;
-	--web-scale-on-resize: true;
-	--web-center-horizontally: true;
-	--web-enable-deep-linking: true;
 	background-color: rgba(219,241,255,1);
 }
 #whats_happening_block {

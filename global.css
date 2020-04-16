@@ -13,7 +13,7 @@
 	scroll-behavior: smooth;
 }
 
-#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening, #creative-projects {
+#Landing, #Quiz, #Wash_Hands, #What_Can_I_do, #What_is_happening{
 	position: absolute;
 	transform: translateX(-50%);
 	left: 50%;
@@ -27,7 +27,7 @@
 }
 
 
-h1, h2, h3, h4, h5, p, span, ul {
+h1, h2, h3, h4, h5, p, span, ul, li {
 	font-family: 'Montserrat', sans-serif;
 	color: rgba(112,112,112,1);
 	font-weight: 300;

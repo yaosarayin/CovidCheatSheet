@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="global.css"/>
+
+<script id="applicationScript" type="text/javascript" src="server.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+
+</head>
+<style type="text/css">
+	.mediaViewInfo {
+		--web-view-name: Exercise;
+		--web-view-id: Exercise;
+		}	
+	:root {
+		--web-view-ids: Exercise;
+	}
+
+	#Exercise {
+		position: absolute;
+		transform: translateX(-50%);
+		left: 50%;
+		width: 1280px;
+		height: 3220px;
+		--web-view-name: Exercise;
+		--web-view-id: Exercise;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-enable-deep-linking: true;
+		}
+
+	#title {
+			position: absolute;
+			top: 80px;
+			left: 482px;
+		}
+
+
+	#instructions-block {
+		background-image: url('img/exercise-instructions.svg');
+		position: absolute;
+		height: 600px;
+		width: 100%;
+		top: 200px;
+	}
+
+	#steps-block {
+		background-image: url('img/exercise-steps.svg');
+		position: absolute;
+		height: 2300px;
+		width: 100%;
+		top: 800px;
+	}
+
+
+
+</style>
+<body>
+<div id="Exercise">
+	<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
+	<a href="index.html"><img id='home-button-bottom-2' src="img/home-button.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-top' src="img/back-arrow.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-bottom' src="img/back-arrow.svg"></a>
+
+	<h1 id="title">Exercise</h1>
+	<div id='instructions-block'>
+
+	</div>
+	<div id="steps-block">
+
+	</div>
+</div>
+</body>

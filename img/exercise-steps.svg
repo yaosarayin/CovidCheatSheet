@@ -1,0 +1,307 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="2300" viewBox="0 0 1280 2300">
+  <defs>
+    <filter id="Go_outside_Just_breathe_" x="280.5" y="86.5" width="232" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Play_Hide_and_Seek_with_your_family" x="521" y="413" width="248" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Play_Hide_and_Seek_with_your_family-2" x="521.5" y="67" width="248" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Play_Tag" x="565" y="791" width="160" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="YOGA_" x="834" y="451" width="138" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Run_3_miles" x="288" y="796" width="208" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Go_on_a_walk_with_your_dog_" x="534" y="1433" width="226" height="137" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-7"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Stretch_and_Roll" x="40" y="587" width="136" height="146" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Go_Biking" x="813" y="796" width="170" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-9"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_10_push-ups_" x="775" y="95" width="240" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-10"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="YOGA_2" x="38" y="1293" width="138" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-11"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Picnic_TIme_" x="1123" y="929" width="116" height="104" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-12"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Teach_your_pet_a_new_trick" x="35" y="1916" width="120" height="277" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-13"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-13"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Plan_a_family_garden" x="1115" y="1556" width="140" height="277" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-14"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-14"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Build_a_tree-house_" x="1115" y="209" width="139" height="284" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-15"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-15"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="YOGA_3" x="834" y="1133" width="138" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-16"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-16"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="_20_Crunches" x="275" y="455" width="240" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-17"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-17"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Attempt_a_pull_up_" x="275" y="1115" width="240" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-18"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-18"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Take_a_walk_in_the_neighborhood_" x="755" y="1433" width="280" height="240" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-19"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-19"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Play_soccer_in_an_open_area_" x="255" y="1793" width="261" height="140" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-20"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-20"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Try_this_workout_" x="775" y="1795" width="240" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-21"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-21"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Learn_how_to_juggle" x="535.5" y="1093" width="219" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-22"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-22"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Create_a_scavenger_hunt_for_your_back_yard" x="550" y="1773" width="190" height="152" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-23"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-23"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="PILLOW_FIGHT_" x="276" y="1453" width="219" height="160" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-24"/>
+      <feFlood flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-24"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_492" data-name="Group 492" transform="translate(0 -800)">
+    <rect id="Rectangle_209" data-name="Rectangle 209" width="1280" height="2300" transform="translate(0 800)" fill="#ffe5e5"/>
+    <g id="Group_482" data-name="Group 482" transform="translate(-60 560)">
+      <g id="Group_478" data-name="Group 478" transform="translate(80 300)">
+        <path id="Path_2097" data-name="Path 2097" d="M223.81,0H987.619C1122.2,0,1223.81,83.959,1223.81,250S1122.2,500,987.619,500H220V340H987.619s89.977-.869,89.977-90-89.977-90-89.977-90H223.81Z" transform="translate(16.19)" fill="#f8aaaa"/>
+        <rect id="Rectangle_181" data-name="Rectangle 181" width="256" height="160" transform="translate(747 340)" fill="#e55a5a"/>
+        <rect id="Rectangle_184" data-name="Rectangle 184" width="256" height="160" transform="translate(237 340)" fill="#949bf0"/>
+        <rect id="Rectangle_185" data-name="Rectangle 185" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2098" data-name="Path 2098" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#d95454"/>
+        <rect id="Rectangle_186" data-name="Rectangle 186" width="254" height="160" transform="translate(493 340)" fill="#87d167"/>
+        <rect id="Rectangle_188" data-name="Rectangle 188" width="256" height="160" transform="translate(747 340)" fill="#e55a5a"/>
+        <rect id="Rectangle_189" data-name="Rectangle 189" width="256" height="160" transform="translate(236 340)" fill="#949bf0"/>
+        <rect id="Rectangle_190" data-name="Rectangle 190" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2100" data-name="Path 2100" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#d95454"/>
+        <rect id="Rectangle_193" data-name="Rectangle 193" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+      </g>
+      <g id="Group_479" data-name="Group 479" transform="translate(80 1660)">
+        <path id="Path_2097-2" data-name="Path 2097" d="M220,0H987.619C1122.2,0,1223.81,83.959,1223.81,250S1122.2,500,987.619,500H220V340H987.619s89.977-.869,89.977-90-89.977-90-89.977-90H220Z" transform="translate(16.19)" fill="#f8aaaa"/>
+        <rect id="Rectangle_175" data-name="Rectangle 175" width="256" height="160" transform="translate(747)" fill="#ffd05b"/>
+        <rect id="Rectangle_181-2" data-name="Rectangle 181" width="256" height="160" transform="translate(747 340)" fill="#e55a5a"/>
+        <rect id="Rectangle_184-2" data-name="Rectangle 184" width="256" height="160" transform="translate(237 340)" fill="#949bf0"/>
+        <rect id="Rectangle_185-2" data-name="Rectangle 185" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2098-2" data-name="Path 2098" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#d95454"/>
+        <rect id="Rectangle_186-2" data-name="Rectangle 186" width="254" height="160" transform="translate(493 340)" fill="#c3fada"/>
+        <path id="Path_2099" data-name="Path 2099" d="M220,0H987.619C1122.2,0,1223.81,83.959,1223.81,250S1122.2,500,987.619,500H220V340H987.619s89.977-.869,89.977-90-89.977-90-89.977-90H220Z" transform="translate(16.19)" fill="#f8aaaa"/>
+        <rect id="Rectangle_187" data-name="Rectangle 187" width="256" height="160" transform="translate(747)" fill="#ffd05b"/>
+        <rect id="Rectangle_188-2" data-name="Rectangle 188" width="256" height="160" transform="translate(747 340)" fill="#949bf0"/>
+        <rect id="Rectangle_189-2" data-name="Rectangle 189" width="256" height="160" transform="translate(237 340)" fill="#fccc59"/>
+        <rect id="Rectangle_190-2" data-name="Rectangle 190" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2100-2" data-name="Path 2100" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#a4ccff"/>
+      </g>
+      <g id="Group_480" data-name="Group 480" transform="translate(80 980)">
+        <path id="Path_2097-3" data-name="Path 2097" d="M220,0H987.619C1122.2,0,1223.81,83.959,1223.81,250S1122.2,500,987.619,500H220V340H987.619s89.977-.869,89.977-90-89.977-90-89.977-90H220Z" transform="translate(16.19)" fill="#f8aaaa"/>
+        <rect id="Rectangle_175-2" data-name="Rectangle 175" width="256" height="160" transform="translate(747)" fill="#ffd05b"/>
+        <rect id="Rectangle_181-3" data-name="Rectangle 181" width="256" height="160" transform="translate(747 340)" fill="#e55a5a"/>
+        <rect id="Rectangle_184-3" data-name="Rectangle 184" width="256" height="160" transform="translate(237 340)" fill="#949bf0"/>
+        <rect id="Rectangle_185-3" data-name="Rectangle 185" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2098-3" data-name="Path 2098" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#d95454"/>
+        <rect id="Rectangle_186-3" data-name="Rectangle 186" width="254" height="160" transform="translate(493 340)" fill="#c3fada"/>
+        <path id="Path_2099-2" data-name="Path 2099" d="M220,0H987.619C1122.2,0,1223.81,83.959,1223.81,250S1122.2,500,987.619,500H220V340H987.619s89.977-.869,89.977-90-89.977-90-89.977-90H220Z" transform="translate(16.19)" fill="#f8aaaa"/>
+        <rect id="Rectangle_187-2" data-name="Rectangle 187" width="256" height="160" transform="translate(747)" fill="#ffd05b"/>
+        <rect id="Rectangle_188-3" data-name="Rectangle 188" width="256" height="160" transform="translate(747 340)" fill="#e55a5a"/>
+        <rect id="Rectangle_189-3" data-name="Rectangle 189" width="256" height="160" transform="translate(237 340)" fill="#949bf0"/>
+        <rect id="Rectangle_190-3" data-name="Rectangle 190" width="254" height="160" transform="translate(493)" fill="#a4ccff"/>
+        <path id="Path_2100-3" data-name="Path 2100" d="M0,0C134.586,0,236.19,83.959,236.19,250S134.586,500,0,500V340s89.977-.869,89.977-90S0,160,0,160Z" transform="translate(236.19 840) rotate(180)" fill="#d95454"/>
+        <rect id="Rectangle_191" data-name="Rectangle 191" width="254" height="160" transform="translate(493 340)" fill="#87d167"/>
+        <rect id="Rectangle_205" data-name="Rectangle 205" width="254" height="160" transform="translate(240 680)" fill="#87d167"/>
+        <rect id="Rectangle_206" data-name="Rectangle 206" width="254" height="160" transform="translate(240 -680)" fill="#87d167"/>
+      </g>
+      <rect id="Rectangle_207" data-name="Rectangle 207" width="256" height="160" transform="translate(320 980)" fill="#ffd05b"/>
+      <rect id="Rectangle_208" data-name="Rectangle 208" width="256" height="160" transform="translate(824 300)" fill="#949bf0"/>
+      <rect id="Rectangle_210" data-name="Rectangle 210" width="256" height="160" transform="translate(824 300)" fill="#949bf0"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Go_outside_Just_breathe_)">
+      <text id="Go_outside_Just_breathe_2" data-name="Go outside
+Just breathe " transform="translate(391.5 124.5)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-85.243" y="0">Go outside</tspan><tspan x="-105.158" y="42">Just breathe </tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Play_Hide_and_Seek_with_your_family)">
+      <text id="Play_Hide_and_Seek_with_your_family-3" data-name="Play Hide and Seek with your family" transform="translate(640 451)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-113.173" y="0">Play Hide and </tspan><tspan x="-82.985" y="42">Seek with </tspan><tspan x="-88.34" y="84">your family</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Play_Hide_and_Seek_with_your_family-2)">
+      <text id="Play_Hide_and_Seek_with_your_family-4" data-name="Play Hide and 
+Seek with 
+your family" transform="translate(640.5 105)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-113.173" y="0">Play Hide and </tspan><tspan x="-82.985" y="42">Seek with </tspan><tspan x="-88.34" y="84">your family</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Play_Tag)">
+      <text id="Play_Tag-2" data-name="Play Tag" transform="translate(640 829)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-70" y="0">Play Tag</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#YOGA_)">
+      <text id="YOGA_4" data-name="YOGA!" transform="translate(898 489)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-58.048" y="0">YOGA!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Run_3_miles)">
+      <text id="Run_3_miles-2" data-name="Run 3 miles" transform="translate(387 834)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-93.415" y="0">Run 3 miles</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Go_on_a_walk_with_your_dog_)">
+      <text id="Go_on_a_walk_with_your_dog_2" data-name="Go on a walk with your dog!" transform="translate(642 1469)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="32" font-family="AppleGothic"><tspan x="-102.32" y="0">Go on a walk </tspan><tspan x="-72.72" y="39">with your </tspan><tspan x="-32.976" y="78">dog!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Stretch_and_Roll)">
+      <text id="Stretch_and_Roll-2" data-name="Stretch
+and
+Roll" transform="translate(103 625)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-57.015" y="0">Stretch</tspan><tspan x="-29.12" y="42">and</tspan><tspan x="-27.248" y="84">Roll</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Go_Biking)">
+      <text id="Go_Biking-2" data-name="Go Biking" transform="translate(893 834)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-74.27" y="0">Go Biking</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#_10_push-ups_)">
+      <text id="_10_push-ups_2" data-name="10 push-ups!" transform="translate(780 100)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="34.628" y="31">10 push-</tspan><tspan x="75.333" y="73">ups!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#YOGA_2)">
+      <text id="YOGA_5" data-name="YOGA!" transform="translate(102 1331)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-58.048" y="0">YOGA!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Picnic_TIme_)">
+      <text id="Picnic_TIme_2" data-name="Picnic
+TIme!" transform="translate(1176 967)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-44.065" y="0">Picnic</tspan><tspan x="-47.145" y="42">TIme!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Teach_your_pet_a_new_trick)">
+      <text id="Teach_your_pet_a_new_trick-2" data-name="Teach your pet a new trick" transform="translate(40 1923)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="32" font-family="AppleGothic"><tspan x="4.944" y="29">Teach </tspan><tspan x="17.248" y="68">your </tspan><tspan x="12.72" y="107">pet a </tspan><tspan x="18.912" y="146">new </tspan><tspan x="19.824" y="185">trick</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Plan_a_family_garden)">
+      <text id="Plan_a_family_garden-2" data-name="Plan a family garden" transform="translate(1120 1563)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="32" font-family="AppleGothic"><tspan x="15.536" y="29">Plan a </tspan><tspan x="17.104" y="68">family </tspan><tspan x="9.968" y="107">garden</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Build_a_tree-house_)">
+      <text id="Build_a_tree-house_2" data-name="Build a tree-house!" transform="translate(1120 216)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="7.875" y="31">Build a </tspan><tspan x="19.39" y="73">tree-</tspan><tspan x="5.582" y="115">house!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#YOGA_3)">
+      <text id="YOGA_6" data-name="YOGA!" transform="translate(898 1171)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="-58.048" y="0">YOGA!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#_20_Crunches)">
+      <text id="_20_Crunches-2" data-name="20 Crunches" transform="translate(280 460)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="6.452" y="31">20 Crunches</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Attempt_a_pull_up_)">
+      <text id="Attempt_a_pull_up_2" data-name="Attempt a pull up!" transform="translate(280 1120)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="28.923" y="31">Attempt a </tspan><tspan x="53.16" y="73">pull up!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Take_a_walk_in_the_neighborhood_)">
+      <text id="Take_a_walk_in_the_neighborhood_2" data-name="Take a walk in the neighborhood " transform="translate(760 1440)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="14.272" y="31">Take a walk in </tspan><tspan x="105.273" y="73">the </tspan><tspan x="23.67" y="115">neighborhood </tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Play_soccer_in_an_open_area_)">
+      <text id="Play_soccer_in_an_open_area_2" data-name="Play soccer in an open area!" transform="translate(260 1800)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="10.81" y="31">Play soccer in </tspan><tspan x="8.22" y="73">an open area!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Try_this_workout_)">
+      <text id="Try_this_workout_2" data-name="Try this workout!" transform="translate(780 1800)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="50.342" y="31">Try this </tspan><tspan x="37.55" y="73">workout!</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Learn_how_to_juggle)">
+      <text id="Learn_how_to_juggle-2" data-name="Learn how to juggle" transform="translate(540.5 1100)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="14.852" y="31">Learn how </tspan><tspan x="30.97" y="73">to juggle</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#Create_a_scavenger_hunt_for_your_back_yard)">
+      <text id="Create_a_scavenger_hunt_for_your_back_yard-2" data-name="Create a 
+scavenger 
+hunt for your 
+back yard" transform="translate(640 1804)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="27" font-family="AppleGothic"><tspan x="-57.334" y="0">Create a </tspan><tspan x="-67.675" y="33">scavenger </tspan><tspan x="-84.51" y="66">hunt for your </tspan><tspan x="-60.669" y="99">back yard</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 800)" filter="url(#PILLOW_FIGHT_)">
+      <text id="PILLOW_FIGHT_2" data-name="PILLOW FIGHT " transform="translate(281 1460)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="34.382" y="31">PILLOW </tspan><tspan x="48.662" y="73">FIGHT </tspan></text>
+    </g>
+  </g>
+</svg>

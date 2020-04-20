@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="660" viewBox="0 0 1280 660">
+  <defs>
+    <filter id="Important_supplements_for_immunity:" x="55" y="23" width="1180" height="92" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_218" x="37.5" y="97.5" width="595" height="255" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-2"/>
+      <feFlood flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_219" x="37.5" y="377.5" width="455" height="255" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_221" x="657.5" y="97.5" width="595" height="255" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-4"/>
+      <feFlood flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_220" x="797.5" y="377.5" width="455" height="255" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-5"/>
+      <feFlood flood-opacity="0.404"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_547" data-name="Group 547" transform="translate(0 -2420)">
+    <rect id="Rectangle_217" data-name="Rectangle 217" width="1280" height="660" transform="translate(0 2420)" fill="#f8c757"/>
+    <g id="Group_519" data-name="Group 519" transform="translate(106.479 262)">
+      <g id="bottle" transform="translate(512.077 2609.091)">
+        <g id="Group_502" data-name="Group 502" transform="translate(0 5.673)">
+          <path id="Path_2122" data-name="Path 2122" d="M170.871,117.837v-5.193H145.233v5.193a7.654,7.654,0,0,0-7.355,7.509V157.9a7.674,7.674,0,0,0,7.818,7.522h24.711a7.674,7.674,0,0,0,7.818-7.522V125.345A7.653,7.653,0,0,0,170.871,117.837Z" transform="translate(-137.878 -112.644)" fill="#7584f2"/>
+        </g>
+        <g id="Group_503" data-name="Group 503" transform="translate(20.194 5.673)">
+          <path id="Path_2123" data-name="Path 2123" d="M268.918,117.837v-5.193h-12.8v52.781h12.335a7.674,7.674,0,0,0,7.818-7.522V125.345a7.653,7.653,0,0,0-7.355-7.508Z" transform="translate(-256.12 -112.644)" fill="#4855b7"/>
+        </g>
+        <g id="Group_504" data-name="Group 504" transform="translate(5.048 0)">
+          <path id="Path_2124" data-name="Path 2124" d="M167.434,78.118h30.252v8.139H167.434Z" transform="translate(-167.434 -78.118)" fill="#fff"/>
+        </g>
+        <g id="Group_505" data-name="Group 505" transform="translate(20.194 0)">
+          <path id="Path_2125" data-name="Path 2125" d="M256.12,78.118h15.105v8.139H256.12Z" transform="translate(-256.12 -78.118)" fill="#e9edf5"/>
+        </g>
+        <g id="Group_515" data-name="Group 515" transform="translate(5.762 19.717)">
+          <g id="Group_506" data-name="Group 506" transform="translate(1.811 1.743)">
+            <path id="Path_2126" data-name="Path 2126" d="M201.766,223.373a14.172,14.172,0,0,1,0,20.591,15.56,15.56,0,0,1-21.4,0Z" transform="translate(-180.362 -223.373)" fill="#ffce00"/>
+          </g>
+          <g id="Group_507" data-name="Group 507" transform="translate(14.75 1.743)">
+            <path id="Path_2127" data-name="Path 2127" d="M264.585,223.374l-8.465,8.143v16.552a15.291,15.291,0,0,0,8.465-4.1A14.172,14.172,0,0,0,264.585,223.374Z" transform="translate(-256.12 -223.374)" fill="#fdba12"/>
+          </g>
+          <g id="Group_512" data-name="Group 512" transform="translate(9.707 9.019)">
+            <g id="Group_508" data-name="Group 508" transform="translate(0 3.346)">
+              <path id="Path_2128" data-name="Path 2128" d="M229.06,288.024l-.3.293-2.161,13.689a15.757,15.757,0,0,0,8.276-.729Z" transform="translate(-226.594 -288.024)" fill="#fa0"/>
+            </g>
+            <g id="Group_509" data-name="Group 509" transform="translate(5.043 9.224)">
+              <path id="Path_2129" data-name="Path 2129" d="M256.12,323.8v8.194a15.589,15.589,0,0,0,3.233-.819Z" transform="translate(-256.12 -323.797)" fill="#ff9500"/>
+            </g>
+            <g id="Group_510" data-name="Group 510" transform="translate(3.134)">
+              <path id="Path_2130" data-name="Path 2130" d="M245.483,269.842l-.541.521,13.782,5.592a14.1,14.1,0,0,0,.7-8.3Z" transform="translate(-244.942 -267.659)" fill="#fa0"/>
+            </g>
+            <g id="Group_511" data-name="Group 511" transform="translate(5.043)">
+              <path id="Path_2131" data-name="Path 2131" d="M268.69,267.659l-12.57,1.969v1.509l11.873,4.817A14.1,14.1,0,0,0,268.69,267.659Z" transform="translate(-256.12 -267.659)" fill="#ff9500"/>
+            </g>
+          </g>
+          <g id="Group_513" data-name="Group 513" transform="translate(0 0)">
+            <path id="Path_2132" data-name="Path 2132" d="M182.269,241.822a18,18,0,0,1-12.513-4.978l3.623-3.485a12.942,12.942,0,0,0,17.781,0,11.786,11.786,0,0,0,0-17.105l3.623-3.485a16.589,16.589,0,0,1,0,24.076A18.005,18.005,0,0,1,182.269,241.822Z" transform="translate(-169.756 -212.767)" fill="#ff9500"/>
+          </g>
+          <g id="Group_514" data-name="Group 514" transform="translate(14.75)">
+            <path id="Path_2133" data-name="Path 2133" d="M266.4,212.767l-3.623,3.485a11.786,11.786,0,0,1,0,17.105,12.672,12.672,0,0,1-6.653,3.343v4.985a17.887,17.887,0,0,0,10.276-4.842A16.589,16.589,0,0,0,266.4,212.767Z" transform="translate(-256.121 -212.767)" fill="#fe6a16"/>
+          </g>
+        </g>
+      </g>
+      <g id="vitamin" transform="translate(400.41 2498)">
+        <path id="Path_2136" data-name="Path 2136" d="M266.7,40.482c0,22.358-18.917,40.482-42.253,40.482S182.2,62.84,182.2,40.482,201.115,0,224.451,0,266.7,18.125,266.7,40.482Z" transform="translate(-91.341)" fill="#f3e2a9"/>
+        <path id="Path_2137" data-name="Path 2137" d="M293.23,40.482c0,22.358-18.917,40.482-42.253,40.482a44.366,44.366,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966S264.386,3.6,244.249.517A44.367,44.367,0,0,1,250.977,0C274.312,0,293.23,18.125,293.23,40.482Z" transform="translate(-117.866)" fill="#efd898"/>
+        <path id="Path_2138" data-name="Path 2138" d="M425.4,131.732c0,22.358-18.917,40.482-42.253,40.482S340.9,154.09,340.9,131.732,359.813,91.25,383.149,91.25,425.4,109.375,425.4,131.732Z" transform="translate(-159.181 -40.991)" fill="#ff7f54"/>
+        <path id="Path_2139" data-name="Path 2139" d="M451.928,131.732c0,22.358-18.917,40.482-42.253,40.482a44.366,44.366,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966s-15.388-36.878-35.525-39.966a44.36,44.36,0,0,1,6.728-.517C433.01,91.25,451.928,109.375,451.928,131.732Z" transform="translate(-185.707 -40.991)" fill="#f06c4a"/>
+        <path id="Path_2140" data-name="Path 2140" d="M425.4,314.232c0,22.358-18.917,40.482-42.253,40.482S340.9,336.59,340.9,314.232s18.917-40.482,42.253-40.482S425.4,291.875,425.4,314.232Z" transform="translate(-159.181 -122.974)" fill="#ffcf56"/>
+        <path id="Path_2141" data-name="Path 2141" d="M451.928,314.232c0,22.358-18.917,40.482-42.253,40.482a44.364,44.364,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966s-15.388-36.878-35.525-39.966a44.362,44.362,0,0,1,6.728-.517C433.01,273.75,451.928,291.875,451.928,314.232Z" transform="translate(-185.707 -122.974)" fill="#ffb154"/>
+        <path id="Path_2142" data-name="Path 2142" d="M266.7,405.482c0,22.358-18.917,40.482-42.253,40.482S182.2,427.84,182.2,405.482,201.115,365,224.451,365,266.7,383.125,266.7,405.482Z" transform="translate(-91.341 -163.965)" fill="#b8c76f"/>
+        <path id="Path_2143" data-name="Path 2143" d="M293.23,405.482c0,22.358-18.917,40.482-42.253,40.482a44.368,44.368,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966s-15.388-36.878-35.525-39.966a44.368,44.368,0,0,1,6.728-.517C274.312,365,293.23,383.125,293.23,405.482Z" transform="translate(-117.866 -163.965)" fill="#a2b16f"/>
+        <path id="Path_2144" data-name="Path 2144" d="M108.005,314.232c0,22.358-18.917,40.482-42.253,40.482S23.5,336.59,23.5,314.232,42.417,273.75,65.753,273.75,108.005,291.875,108.005,314.232Z" transform="translate(-23.5 -122.974)" fill="#a0c1b7"/>
+        <path id="Path_2145" data-name="Path 2145" d="M134.531,314.232c0,22.358-18.917,40.482-42.253,40.482a44.364,44.364,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966s-15.388-36.878-35.525-39.966a44.362,44.362,0,0,1,6.728-.517C115.613,273.75,134.531,291.875,134.531,314.232Z" transform="translate(-50.025 -122.974)" fill="#84ab9e"/>
+        <path id="Path_2146" data-name="Path 2146" d="M108.005,131.732c0,22.358-18.917,40.482-42.253,40.482S23.5,154.09,23.5,131.732,42.417,91.25,65.753,91.25,108.005,109.375,108.005,131.732Z" transform="translate(-23.5 -40.991)" fill="#aa8753"/>
+        <path id="Path_2147" data-name="Path 2147" d="M134.531,131.732c0,22.358-18.917,40.482-42.253,40.482a44.366,44.366,0,0,1-6.728-.517c20.137-3.088,35.525-19.8,35.525-39.966S105.687,94.854,85.55,91.767a44.36,44.36,0,0,1,6.728-.517C115.613,91.25,134.531,109.375,134.531,131.732Z" transform="translate(-50.025 -40.991)" fill="#925f43"/>
+        <path id="Path_2148" data-name="Path 2148" d="M260.218,72.157l-7.542-28.9a9.9,9.9,0,0,0-18.994,0l-7.542,28.9a4.123,4.123,0,0,0,3.12,5.013,4.311,4.311,0,0,0,5.21-3l1.706-6.537h14.006l1.706,6.537a4.27,4.27,0,0,0,4.162,3.126,4.461,4.461,0,0,0,1.049-.126A4.122,4.122,0,0,0,260.218,72.157ZM238.333,59.37l3.68-14.1a1.22,1.22,0,0,1,2.334,0l3.68,14.1Z" transform="translate(-110.07 -16.235)" fill="#aa8753"/>
+        <path id="Path_2149" data-name="Path 2149" d="M101.107,164.413a4.215,4.215,0,0,1-4.294,4.131H75.357a4.214,4.214,0,0,1-4.294-4.131V131.522a4.215,4.215,0,0,1,4.294-4.131H96.813a4.134,4.134,0,1,1,0,8.262H79.651V142.4h12.12a4.134,4.134,0,1,1,0,8.262H79.651v9.623H96.813A4.215,4.215,0,0,1,101.107,164.413Z" transform="translate(-43.832 -57.226)" fill="#f3e2a9"/>
+        <path id="Path_2150" data-name="Path 2150" d="M80.261,226.819H71.61a4.215,4.215,0,0,0-4.294,4.131v32.891a4.215,4.215,0,0,0,4.294,4.131h8.651c11.794,0,21.389-9.231,21.389-20.576S92.056,226.819,80.261,226.819Zm0,32.89H75.9V235.08h4.357a12.324,12.324,0,1,1,0,24.629Zm86.5,29.722v16.445a4.2,4.2,0,0,0,4.288,4.092h8.583a4.2,4.2,0,0,0,4.288-4.092,4.3,4.3,0,0,1,8.588,0,12.637,12.637,0,0,1-12.876,12.353H171.05a12.637,12.637,0,0,1-12.876-12.353V289.432a12.637,12.637,0,0,1,12.876-12.353h8.583a12.637,12.637,0,0,1,12.876,12.353,4.3,4.3,0,0,1-8.588,0,4.2,4.2,0,0,0-4.288-4.092H171.05A4.2,4.2,0,0,0,166.762,289.432ZM272.068,142.3a11.218,11.218,0,0,0,1.565-5.7,11.884,11.884,0,0,0-12.094-11.634H247.883a4.214,4.214,0,0,0-4.294,4.131v32.891a4.215,4.215,0,0,0,4.294,4.131h16.451a13.354,13.354,0,0,0,13.59-13.073A12.933,12.933,0,0,0,272.068,142.3Zm-19.891-9.077h9.362a3.375,3.375,0,1,1,0,6.745h-9.362Zm12.157,24.63H252.178v-9.623h12.157a4.815,4.815,0,1,1,0,9.623Zm24.473,2.692v4.112a4.3,4.3,0,0,1-8.588,0v-4.112a4.3,4.3,0,0,1,8.588,0Zm-21.894,82.273a11.217,11.217,0,0,0,1.565-5.7,11.884,11.884,0,0,0-12.094-11.634H242.728a4.214,4.214,0,0,0-4.294,4.131V262.5a4.215,4.215,0,0,0,4.294,4.131h16.451a13.355,13.355,0,0,0,13.59-13.073A12.931,12.931,0,0,0,266.913,242.821Zm-19.891-9.077h9.362a3.375,3.375,0,1,1,0,6.745h-9.362Zm12.157,24.63H247.022v-9.623H259.18a4.815,4.815,0,1,1,0,9.623Zm23.9,2.692v4.112a4.3,4.3,0,0,1-8.588,0v-4.112a4.3,4.3,0,0,1,8.588,0Zm10.885,0v4.112a4.3,4.3,0,0,1-8.588,0v-4.112a4.3,4.3,0,0,1,8.588,0Z" transform="translate(-42.231 -56.137)" fill="#fff"/>
+        <path id="Path_2151" data-name="Path 2151" d="M256.428,272.1c-8.5,14.7-24.768,23.773-42.13,23.773q-1.767,0-3.545-.126a48.551,48.551,0,0,1-32.88-15.885,44.946,44.946,0,0,1-11.188-23.587l-.69.742a4.414,4.414,0,0,1-6.064.325,4.022,4.022,0,0,1-.338-5.833l7.438-8a4.415,4.415,0,0,1,6.056-.332l8.717,7.464a4.022,4.022,0,0,1,.352,5.832,4.413,4.413,0,0,1-6.062.339l-.742-.636a36.956,36.956,0,0,0,9.016,18.279,39.893,39.893,0,0,0,27.019,13.05c15.344,1.091,30.077-6.531,37.536-19.426a4.386,4.386,0,0,1,5.84-1.6A4.051,4.051,0,0,1,256.428,272.1Z" transform="translate(-81.21 -108.77)" fill="#84ab9e"/>
+        <path id="Path_2152" data-name="Path 2152" d="M277.753,219.464l-7.984,7.5a4.415,4.415,0,0,1-6.065-.062l-8.172-8.009a4.021,4.021,0,0,1,.057-5.842,4.414,4.414,0,0,1,6.072.055l.768.752a36.838,36.838,0,0,0-9.3-20.2,39.893,39.893,0,0,0-27.019-13.05c-16.242-1.157-31.806,7.546-38.728,21.658a4.369,4.369,0,0,1-5.716,1.973,4.064,4.064,0,0,1-2.051-5.5c8.429-17.183,27.364-27.78,47.13-26.372a48.549,48.549,0,0,1,32.88,15.885,44.821,44.821,0,0,1,11.468,25.925l.662-.622a4.415,4.415,0,0,1,6.073.069A4.021,4.021,0,0,1,277.753,219.464Z" transform="translate(-90.059 -77.374)" fill="#ff7f54"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 2420)" filter="url(#Important_supplements_for_immunity:)">
+      <text id="Important_supplements_for_immunity:-2" data-name="Important supplements for immunity:" transform="translate(60 28)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="40" font-family="AppleGothic"><tspan x="0" y="36">Important supplements for immunity:</tspan></text>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 2420)" filter="url(#Rectangle_218)">
+      <rect id="Rectangle_218-2" data-name="Rectangle 218" width="580" height="240" rx="73" transform="translate(40 100)" fill="rgba(255,255,255,0.9)"/>
+    </g>
+    <text id="Standard_multivitamin_multimineral_supplement_40_USD_for_6_month_supply_for_an_increase_immune_strength_and_therefore_decrease_in_future_health_care_costs._" data-name="Standard multivitamin/multimineral supplement
+~$40 USD for 6 month supply for an increase immune strength and therefore decrease in future health care costs.
+" transform="translate(100 2549)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="40" font-family="AppleGothic"><tspan x="0" y="36">Standard multivitamin/</tspan><tspan x="0" y="85">multimineral supplement</tspan><tspan font-size="25"><tspan x="0" y="120">~$40 USD for 6 month supply for an </tspan><tspan x="0" y="150">increase immune strength and therefore </tspan><tspan x="0" y="180">decrease in future health care costs.</tspan><tspan x="0" y="210"></tspan></tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 2420)" filter="url(#Rectangle_219)">
+      <rect id="Rectangle_219-2" data-name="Rectangle 219" width="440" height="240" rx="73" transform="translate(40 380)" fill="rgba(255,255,255,0.9)"/>
+    </g>
+    <text id="Zinc_20mg_week_to_92mg_day_Oral_Zinc_supplementation_reduces_respiratory_infections_by_35_and_reduces_duration_of_the_flu._" data-name="Zinc
+20mg/week to 92mg/day
+Oral Zinc supplementation reduces respiratory infections by 35% and reduces duration of the flu.
+" transform="translate(80 2820)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="40" font-family="AppleGothic"><tspan x="132.12" y="36">Zinc</tspan><tspan font-size="25"><tspan x="16.2" y="71">20mg/week to 92mg/day</tspan><tspan x="22.25" y="101">Oral Zinc supplementation </tspan><tspan x="3.425" y="131">reduces respiratory infections </tspan><tspan x="49.213" y="161">by 35% and reduces </tspan><tspan x="65.525" y="191">duration of the flu.</tspan></tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 2420)" filter="url(#Rectangle_221)">
+      <rect id="Rectangle_221-2" data-name="Rectangle 221" width="580" height="240" rx="73" transform="translate(660 100)" fill="rgba(255,255,255,0.9)"/>
+    </g>
+    <text id="Vitamin_D_1_000_to_2_000_IU_day_People_with_darker_skin_should_take_approximately_4_000_IU_day_Sunlight_works_great_too_Our_bodies_produce_Vitamin_D_as_we_lay_in_the_sun_15_min_day_" data-name="Vitamin D
+1,000 to 2,000 IU / day 
+(People with darker skin should take approximately 4,000 IU / day)
+Sunlight works great too! Our bodies produce Vitamin D as we lay in the sun ~ 15 min/day
+" transform="translate(690 2540)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="40" font-family="AppleGothic"><tspan x="172.14" y="36">Vitamin D</tspan><tspan font-size="25"><tspan x="114.463" y="71">1,000 to 2,000 IU / day </tspan><tspan x="55.05" y="101">(People with darker skin should take </tspan><tspan x="81.512" y="131">approximately 4,000 IU / day)</tspan><tspan x="1.55" y="161">Sunlight works great too! Our bodies produce </tspan><tspan x="2.362" y="191">Vitamin D as we lay in the sun ~ 15 min/day</tspan></tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 0, 2420)" filter="url(#Rectangle_220)">
+      <rect id="Rectangle_220-2" data-name="Rectangle 220" width="440" height="240" rx="73" transform="translate(800 380)" fill="rgba(255,255,255,0.9)"/>
+    </g>
+    <text id="Vitamin_C_1-3_g_day_Significantly_reduces_respiratory_tract_infections._" data-name="Vitamin C
+1-3 g/day
+Significantly reduces respiratory tract infections.
+" transform="translate(840 2840)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="40" font-family="AppleGothic"><tspan x="92.14" y="36">Vitamin C</tspan><tspan y="36" font-size="25"></tspan><tspan font-size="25"><tspan x="118.7" y="71">1-3 g/day</tspan><tspan x="0.75" y="101">Significantly reduces respiratory </tspan><tspan x="91.875" y="131">tract infections.</tspan><tspan x="180" y="161"></tspan></tspan></text>
+  </g>
+</svg>

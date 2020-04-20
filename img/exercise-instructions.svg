@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="620" viewBox="0 0 1280 620">
+  <defs>
+    <filter id="Family_Games" x="277.5" y="215" width="180" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Engaging_nature" x="837.5" y="415" width="180" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Cardio_" x="557.5" y="435" width="180" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Yoga_and_Flexibility" x="837.5" y="215" width="180" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Strength" x="557.5" y="235" width="180" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Just_Fun" x="277.5" y="435" width="180" height="62" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_493" data-name="Group 493" transform="translate(0 -180)">
+    <rect id="Rectangle_202" data-name="Rectangle 202" width="1280" height="620" transform="translate(0 180)" fill="#d8fff9"/>
+    <text id="Pick_a_color._Then_proceed_to_a_corresponding_box_that_you_like_works_for_your_environment_" data-name="Pick a color. Then proceed to a corresponding box that you like / works for your environment!" transform="translate(220 220)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="11.748" y="31">Pick a color. Then proceed to a corresponding box that </tspan><tspan x="141.51" y="73">you like / works for your environment!</tspan></text>
+    <g id="Group_483" data-name="Group 483" transform="translate(2.5 40)">
+      <rect id="Rectangle_195" data-name="Rectangle 195" width="250" height="160" rx="71" transform="translate(240 320)" fill="#a4ccff"/>
+      <rect id="Rectangle_197" data-name="Rectangle 197" width="250" height="160" rx="71" transform="translate(515 320)" fill="#949bf0"/>
+      <rect id="Rectangle_198" data-name="Rectangle 198" width="250" height="160" rx="71" transform="translate(790 320)" fill="#e55a5a"/>
+      <rect id="Rectangle_199" data-name="Rectangle 199" width="250" height="160" rx="71" transform="translate(515 520)" fill="#ffd05b"/>
+      <rect id="Rectangle_200" data-name="Rectangle 200" width="250" height="160" rx="71" transform="translate(235 520)" fill="#87d167"/>
+      <rect id="Rectangle_201" data-name="Rectangle 201" width="250" height="160" rx="71" transform="translate(790 520)" fill="#f8aaaa"/>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Family_Games)">
+        <text id="Family_Games-2" data-name="Family Games" transform="translate(282.5 220)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="28.847" y="31">Family </tspan><tspan x="23.177" y="73">Games</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Engaging_nature)">
+        <text id="Engaging_nature-2" data-name="Engaging nature" transform="translate(842.5 420)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="8.128" y="31">Engaging </tspan><tspan x="28.865" y="73">nature</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Cardio_)">
+        <text id="Cardio_2" data-name="Cardio!" transform="translate(562.5 440)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="22.95" y="31">Cardio!</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Yoga_and_Flexibility)">
+        <text id="Yoga_and_Flexibility-2" data-name="Yoga and Flexibility" transform="translate(842.5 220)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="3.193" y="31">Yoga and </tspan><tspan x="10.927" y="73">Flexibility</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Strength)">
+        <text id="Strength-2" data-name="Strength" transform="translate(562.5 240)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="12.45" y="31">Strength</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -2.5, 140)" filter="url(#Just_Fun)">
+        <text id="Just_Fun-2" data-name="Just Fun" transform="translate(282.5 440)" fill="#fff" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="35" font-family="AppleGothic"><tspan x="10.98" y="31">Just Fun</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

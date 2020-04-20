@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="global.css"/>
+
+<script id="applicationScript" type="text/javascript" src="server.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
+
+</head>
+<style type="text/css">
+	.mediaViewInfo {
+		--web-view-name: Eat-Well;
+		--web-view-id: Eat-Well;
+		}	
+	:root {
+		--web-view-ids: Eat-Well;
+	}
+
+	#Eat-Well {
+		position: absolute;
+		transform: translateX(-50%);
+		left: 50%;
+		width: 1280px;
+		height: 3760px;
+		--web-view-name: Eat-Well;
+		--web-view-id: Eat-Well;
+		--web-scale-to-fit: true;
+		--web-scale-to-fit-type: width;
+		--web-scale-on-resize: true;
+		--web-center-horizontally: true;
+		--web-enable-deep-linking: true;
+		}
+
+	#title {
+			position: absolute;
+			top: 80px;
+			left: 482px;
+		}
+
+
+	#why-block {
+		background-image: url('img/why-eat-healthy.svg');
+		position: absolute;
+		height: 1280px;
+		width: 100%;
+		top: 200px;
+	}
+
+	#why {
+		position: absolute;
+		overflow: visible;
+		width: 278px;
+		height: 113px;
+		left: 22px;
+		top: 147px;
+		z-index: 1000;
+	}
+
+	#how {
+		position: absolute;
+		overflow: visible;
+		width: 278px;
+		height: 113px;
+		left: 22px;
+		top: 1420px;
+		z-index: 1000;
+	}
+
+
+	#how-block {
+		background-image: url('img/how-eat-healthy.svg');
+		position: absolute;
+		height: 940px;
+		width: 100%;
+		top: 1480px;
+	}
+
+	#supplements-block {
+		background-image: url('img/supplements-block.svg');
+		position: absolute;
+		height: 660px;
+		width: 100%;
+		top: 2420px;
+	}
+	#lifeomic-block {
+	position: absolute;
+	width: 100%;
+	height: 560px;
+	top: 3080px;
+	overflow: visible;
+	text-align: center;
+	background-color: #B1EF97;
+	}
+
+	.lifeology-button {
+	  background-color: white;
+	  color: black;
+	  padding: 20px;
+	  text-align: center;
+	  text-decoration: none;
+	  margin: 4px 2px;
+	  cursor: pointer;
+	  width: 360px;
+	  height: 400px;
+	  border-radius: 75px;
+	  box-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+	  top: 120px;
+	  position: absolute;
+	}
+
+
+</style>
+<body>
+<div id="Eat-Well">
+	<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
+	<a href="index.html"><img id='home-button-bottom-2' src="img/home-button.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-top' src="img/back-arrow.svg"></a>
+	<a href="What_Can_I_do.html"><img id='back-arrow-bottom' src="img/back-arrow.svg"></a>
+
+	<h1 id="title">Eat Well</h1>
+	<div id="why">
+		<svg>
+		<rect fill="rgba(248,199,87,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" rx="43" ry="43" x="0" y="0" width="278" height="113">
+		</rect>
+		<h2 style="position: absolute; left: 40px; top: 20px;">WHY?</h1>
+	</svg>
+	</div>
+	
+
+	<div id='why-block'>
+	</div>
+
+	<div id="how">
+		<svg>
+			<rect fill="rgba(248,199,87,1)" stroke="rgba(112,112,112,0)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" rx="43" ry="43" x="0" y="0" width="278" height="113">
+			</rect>
+			<h2 style="position: absolute; left: 40px; top: 20px;">HOW?</h1>
+		</svg>
+	</div>
+	
+	<div id='how-block'>
+
+	</div>
+
+	<div id='supplements-block'>
+	</div>
+
+	<div id='lifeomic-block'>
+		<h3 style="position: absolute; left: 40px; top: 40px;">Checkout these selected articles to learn more:</h3>
+
+		<a href="https://lifeapps.io/nutrition/eating-smart-during-the-coronavirus-pandemic/">
+			<button class="lifeology-button" style="position: absolute; left: 60px;">
+				<h5>Eating Smart During the Coronavirus Pandemic</h5>
+				<img src="img/lettuce.svg" style="width: 200px;margin-top: 10px;">
+			</button>
+		</a>
+		<a href="https://lifeapps.io/mindfulness/5-ways-to-boost-your-immune-system-during-this-pandemic/">
+			<button class="lifeology-button" style="position: absolute; left: 460px;">
+				<h5>5 Ways To Boost Your Immune System During This Pandemic</h5>
+				<img src="img/your-body.svg" style="width: 200px;margin-top: 10px;">
+			</button>
+		</a>
+		<a href="https://lifeology.io/">
+			<button class="lifeology-button" style="position: absolute; left: 880px;">
+				<h5>Learn more about Lifeology and explore more courses</h5>
+				<img src="img/lifeology-logo.png" style="width: 200px; margin-top: 10px;">
+			</button>
+		</a>
+	</div>
+</div>
+</body>
+</html>

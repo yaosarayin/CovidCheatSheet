@@ -212,10 +212,10 @@
 }
 #How_does_it_spread_ {
 	position: absolute;
-	left: 121px;
+	left: 81px;
 	top: 840px;
 	overflow: visible;
-	width: 161px;
+	width: 201px;
 	height: 88px;
 	text-align: right;
 	font-size: 30px;
@@ -363,7 +363,7 @@
 #We_tested_over_320_000_cases_e {
 	position: absolute;
 	left: 180px;
-	top: 300px;
+	top: 280px;
 	overflow: visible;
 	width: 701px;
 	height: 380px;
@@ -395,7 +395,7 @@
 	overflow: visible;
 	position: absolute;
 	width: 920px;
-	height: 320px;
+	height: 400px;
 	left: 320px;
 	top: 960px;
 	transform: matrix(1,0,0,1,0,0);
@@ -403,16 +403,18 @@
 .___1410 {
 	overflow: visible;
 	position: absolute;
-	width: 860px;
+	width: 1000px;
 	height: 228.298px;
 	left: 80px;
-	top: 1251.702px;
+	top: 1300px;
 	transform: matrix(1,0,0,1,0,0);
 }
+
+
 #Most_public_schools_have_been_ {
 	position: absolute;
 	left: 440px;
-	top: 1000px;
+	top: 1040px;
 	overflow: visible;
 	width: 761px;
 	height: 260px;
@@ -422,10 +424,10 @@
 }
 #Convention_Centers_are_being_t {
 	position: absolute;
-	left: 120px;
-	top: 1340px;
+	left: 160px;
+	top: 1380px;
 	overflow: visible;
-	width: 810px;
+	width: 820px;
 	height: 100px;
 	text-align: left;
 	font-size: 25px;

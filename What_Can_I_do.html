@@ -13,6 +13,31 @@
 
 </head>
 <body>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+	FB.init({
+	  xfbml            : true,
+	  version          : 'v6.0'
+	});
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="101430648204202">
+</div>
+
 <div id="What_Can_I_do">
 	<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
 	<a href="index.html"><img id='home-button-bottom' src="img/home-button.svg"></a>
@@ -98,9 +123,9 @@
 		<h3 class="first-row-h3">Social Distancing</h3>
 		<p class="first-row-p">You might have heard the word a lot! Basically the most effective way to stop the virus from spreading is for EVERYONE to stay home and avoid contact with others! Know that it is important to the whole world that you do not go outside to public spaces! Take the opportunity and spend quality time with love ones at home.</p>
 		<h3 class="second-row-h3">Older People</h3>
-		<p class="second-row-p">Your grandparents, or older people, are more likely to catch the virus and have severe symptoms. To protect them, the best way is to protect yourself from the virus and try your best to keep some physical distance (6 feet!), so that they cannot get if from you!</p>
+		<p class="second-row-p">Your grandparents, or older people, are more likely to catch the virus and have severe symptoms. To protect them, the best way is to protect yourself from the virus and try your best to keep some physical distance (6 feet!), so that they cannot get it from you!</p>
 		<h3 class="third-row-h3">Animal & Pets</h3>
-		<p class="third-row-p">Although there is no evidence so far that any animals has been sick because of COVID-19, we should still pay attention to hygiene like you normally would to protect yourself from germs around your pets, but be EXTRA CAREFUL! Pets should practice social distancing like people. They can catch and transmit the virus too!</p>
+		<p class="third-row-p">Although there is no evidence so far that any animals have contracted COVID-19, we should still pay attention to hygiene like you normally would to protect yourself from germs around your pets, but be EXTRA CAREFUL! Pets should practice social distancing like people. They can catch and transmit the virus too!</p>
 	</div>
 
 	<div id="world-block">

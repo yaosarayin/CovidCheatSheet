@@ -13,7 +13,9 @@
 <script id="applicationScript" type="text/javascript" src="server.js"></script>
 
 </head>
-<!-- Load Facebook SDK for JavaScript -->
+
+<body>
+	<!-- Load Facebook SDK for JavaScript -->
 <div id="fb-root"></div>
 <script>
   window.fbAsyncInit = function() {
@@ -29,7 +31,8 @@
   js = d.createElement(s); js.id = id;
   js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
 <!-- Your customer chat code -->
 <div class="fb-customerchat"
@@ -37,7 +40,6 @@
   page_id="101430648204202">
 </div>
 
-<body>
 <div class="container" id="Landing">
 	<div id="landing_view">
 		<svg class="pink_gaussian" viewBox="-3.659 -12.545 1162.404 609.98">

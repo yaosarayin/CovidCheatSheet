@@ -12,6 +12,31 @@
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500&display=swap" rel="stylesheet">
 </head>
 <body>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+	FB.init({
+	  xfbml            : true,
+	  version          : 'v6.0'
+	});
+  };
+
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- Your customer chat code -->
+<div class="fb-customerchat"
+  attribution=setup_tool
+  page_id="101430648204202">
+</div>
+
 <div id="What_is_happening">
 	<a href="index.html"><img id='home-button-top' src="img/home-button.svg"></a>
 	<a href="index.html"><img id='home-button-bottom' src="img/home-button.svg"></a>
@@ -189,7 +214,7 @@
 		<img id="ID019_teamwork" src="img/019-teamwork.svg">
 		<div id="If_you_are_interested">
 			<h5>If you are interested, here are some more numbers:</h5><br>
-			<p>The United States Federal Reserve in response to the growing economic fallout of the COV-19 epidemic slashed federal interest rates by 1% to a range of 0 to 0.25% interest rates to help inject money into the economy and promote lending. <br/><br/>The Fed also announced plans to purchase $500 billion dollars worth of Treasury Securities and $200 billion dollars worth of mortgage-backed debt to help inject money directly into the economy. <br/><br/>The Dow Jones Industrial has plunged over 25% in value over the last month following record highs at the end of February. This downturn was worse than the stock market drop following the great depression and has erased most of the gains since Donald Trump has become president. <br/></p><br>
+			<p>The United States Federal Reserve in response to the growing economic fallout of the COVID-19 epidemic slashed federal interest rates by 1% to a range of 0 to 0.25% interest rates to help inject money into the economy and promote lending. <br/><br/>The Fed also announced plans to purchase $500 billion dollars worth of Treasury Securities and $200 billion dollars worth of mortgage-backed debt to help inject money directly into the economy. <br/><br/>The Dow Jones Industrial has plunged over 25% in value over the last month following record highs at the end of February. This downturn was worse than the stock market drop following the great depression and has erased most of the gains since Donald Trump has become president. <br/></p><br>
 		</div>
 	</div>
 </body>

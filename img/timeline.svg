@@ -10,7 +10,7 @@
     <text id="The_first_confirmed_case_can_be_traced_back_to_Wuhan_China._" data-name="The first confirmed case can be traced back to Wuhan, China. 
 " transform="translate(420 460)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="25" font-family="AppleGothic"><tspan x="10.188" y="22">The first confirmed case can be traced </tspan><tspan x="100.163" y="52">back to Wuhan, China. </tspan></text>
     <rect id="Rectangle_115" data-name="Rectangle 115" width="180" height="51" rx="25.5" transform="translate(460 689)" fill="#a4ccff"/>
-    <text id="Dec_1_2019" data-name="Dec 1,2019" transform="translate(530 411)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="30" font-family="AppleGothic"><tspan x="23.66" y="27">Dec 1,2019</tspan></text>
+    <text id="Dec_1_2019" data-name="Dec 1,2019" transform="translate(530 411)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="30" font-family='Montserrat', sans-serif;><tspan x="23.66" y="27">Dec 1,2019</tspan></text>
     <text id="Jan_21" data-name="Jan 21" transform="translate(485 700)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="30" font-family="AppleGothic"><tspan x="14.915" y="27">Jan 21</tspan></text>
     <text id="The_first_cases_in_Japan_and_South_Korea_arrive_in_mid-January._" data-name="The first cases in Japan and South Korea arrive in mid-January. 
 " transform="translate(740 600)" fill="#707070" stroke="rgba(112,112,112,0)" stroke-width="1" font-size="25" font-family="AppleGothic"><tspan x="0" y="22">The first cases in Japan and South </tspan><tspan x="0" y="52">Korea arrive in mid-January. </tspan></text>

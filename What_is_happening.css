@@ -50,6 +50,14 @@
 	color: rgba(112,112,112,1);
 }
 
+text {
+	font-family: 'Montserrat', sans-serif;
+	color: rgba(112,112,112,1);
+	font-weight: 300;
+	text-align: center;
+	font-size: 20;
+}
+
 #timeline {
 	position: absolute;
 	top: 200px;

@@ -445,11 +445,8 @@
 }
 
 .dropbtn {
-	background-color: #4CAF50;
-	color: white;
-	padding: 16px;
-	font-size: 16px;
-	border: none;
+	position: relative;
+	width: 100%;
   }
 
 .dropdown {
@@ -475,6 +472,7 @@
 	text-decoration: none;
 	display: block;
 	}
+
 .dropdown:hover .dropdown-content {display: block;}
 
 .dropdown-content a:hover {background-color: #ddd; border-radius: 25px;}

@@ -474,7 +474,7 @@
 	background-color: #f1f1f1;
 	min-width: 80px;
 	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-	border-radius: 4px;
+	border-radius: 8px;
 	z-index: 1;
 	}
 
@@ -487,5 +487,5 @@
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown-content a:hover {background-color: #ddd; border-radius: 25px;}
+.dropdown-content a:hover {background-color: #ddd; border-radius: 8px;}
 

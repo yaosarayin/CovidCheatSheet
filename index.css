@@ -479,6 +479,6 @@
 	display: block;
 	}
 
-.dropdown-content a:hover {background-color: #ddd; border-radius: 25px;}
+.dropdown-container .dropdown-content a:hover {background-color: #ddd; border-radius: 25px;}
 
-.dropdown:hover .dropdown-content {display: block;}
+.dropdown-container .dropdown:hover .dropdown-content {display: block;}

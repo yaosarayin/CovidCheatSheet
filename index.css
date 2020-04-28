@@ -484,7 +484,8 @@
 
 .dropdown .dropbtn:hover {
 	background-color: black;
-	opacity: .3;
+	border-radius: 20px;
+	opacity: .1;
 }
 .dropdown .dropdown-content a:hover {background-color: #ddd; border-radius: 8px;}
 
